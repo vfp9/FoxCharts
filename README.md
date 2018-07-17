@@ -1,26 +1,30 @@
 # FoxCharts
-**A class based on the ImageCanvas class from GdiPlusX that allows VFP developers to directly draw charts and graphs.**
 
-Project Manager: Cesar ([vfpimaging@hotmail.com](mailto:vfpimaging@hotmail.com)) Versions till 1.37
-Project Manager: YudinAlexKiev (alex.yudin.49@mail.ru) Versions 1.4x
+翻译：xinjie  2018.07.18
 
-Goals of FoxCharts:
-* Create good looking and modern charts in pure VFP code
-* NO ActiveX components
-* Easy to setup
-* Easy to customize
-* Easy to save to disk or print
-* Open Source
-* Benefit from all the GdiPlusX drawing capabilities, allowing users to modify the charts the way they like
-* Save as EMF, resulting in perfect charts when printed in VFP reports
-* Full control of the chart shapes
-* Tooltips
-* Mouse control
+**基于 GdiPlusX 中 ImageCanvas 类的子类, 它允许 VFP 开发人员直接绘制图表。**
 
-Prerequisites:
-* Visual FoxPro 9 and the GdiPlusX library from VFPX 
+项目管理者: Cesar ([vfpimaging@hotmail.com](mailto:vfpimaging@hotmail.com)) 截至版本 1.37
 
-Currently available:
+项目管理者: YudinAlexKiev (alex.yudin.49@mail.ru) 版本 1.4x
+
+FoxCharts 的目的：
+* 使用 VFP 代码创建炫酷的图表
+* 无需 ActiveX 组件
+* 很容易的进行设置
+* 很容易的进行自定义
+* 很容易的将图表保存到磁盘或打印输出
+* 开源
+* 受益于 GdiPlusX 的绘图功能, 允许用户根据自己喜欢的方式修改图表
+* 保存为 EMF（译者注：一种矢量图形格式）, 在 VFP 报表打印时生成完美的图表
+* 对图表形状的完全控制
+* 提示信息
+* 鼠标控制
+
+使用的前提条件：
+* Visual FoxPro 9 和来自 VFPX 的 GdiPlusX 库
+
+当前可用的图表：
 * Single Bars, Multiple Bars, Stacked Bars, Shapes or points, Lines, Area, Pie and Donut charts, in various color variations, using gradients, custom colors, transparent, basic and random colors.
 * Titles, subtitles and legends
 * Scales, Both Axis
