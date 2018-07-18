@@ -58,7 +58,7 @@ FoxCharts 的目的：
 
 **VisualChartDesigner:** 允许开发人员或最终用户对 FoxCharts 属性进行更改, 并看到它们的即时效果的工具。通过将 VisualChartDesigner.vcx 中的 cmdChartOptions 控件添加到图表的 FoxCharts 容器中, 可以将 VisualChartDesigner 添加到任何现有图表中。
 
-**GetChartDataFromRows:** 一种 PRG, 将起始于行中的数据序列转换为 FoxCharts 所需的格式 (每个数据序列都在同一字段中)。
+**GetChartDataFromRows:** 一个 PRG, 将起始于行中的数据序列转换为 FoxCharts 所需的格式 (每个数据序列都在同一字段中)。
 
 ![](FoxCharts%20Tools_VisualChartDesigner.png)
 
@@ -69,12 +69,13 @@ JRN_FoxCharts_Tools 目录包含以下文件：
 * Samples 文件夹，它包含了 VisualChartDesigner_Sample.SCX
 * 一个附加的表单和类；你无需引用它们，它们用于  VisualChartDesigner 。
 
-## Beta Update
+## Beta 版更新
 
-*New features:*
-* Introduced new Bar Types: Cone, Conoid, Pyramid and truncated pyramid (Frustum).
-* Introduced new Brush Types: HatchBrush Color, Textures Brush
-* Right-clicking on the SideLegends in the chart, can call a new form that allows you to interactively apply changes to the way the side legends appear. You can change the Legend positions, colors, and other character formatting.
+*新功能:*
+
+* 推出新的 Bar 类型：锥形，圆锥形，金字塔形和截头金字塔形（Frustum）。
+* 推出新的刷子类型：HatchBrush Color, Textures Brush
+* 右键单击图表中的侧边图例，可以调用一个新表单，该表单允许您以交互方式将更改应用于侧边图例的显示方式。 您可以更改图例位置，颜色和其他字符格式。
 
 *New properties:*
 * GradientShapeDirection: Numeric, determines the Gradient Brush direction (0-3).
