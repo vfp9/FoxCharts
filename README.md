@@ -56,9 +56,9 @@ FoxCharts 的目的：
 
 此工具包包含一些不属于 FoxCharts 的附加工具:
 
-** VisualChartDesigner: 允许开发人员或最终用户对 FoxCharts 属性进行更改, 并看到它们的即时效果的工具。通过将 VisualChartDesigner.vcx 中的 cmdChartOptions 控件添加到图表的 FoxCharts 容器中, 可以将 VisualChartDesigner 添加到任何现有图表中。
+** VisualChartDesigner: ** 允许开发人员或最终用户对 FoxCharts 属性进行更改, 并看到它们的即时效果的工具。通过将 VisualChartDesigner.vcx 中的 cmdChartOptions 控件添加到图表的 FoxCharts 容器中, 可以将 VisualChartDesigner 添加到任何现有图表中。
 
-** GetChartDataFromRows: 一种 PRG, 将起始于行中的数据序列转换为 FoxCharts 所需的格式 (每个数据序列都在同一字段中)。
+** GetChartDataFromRows:** 一种 PRG, 将起始于行中的数据序列转换为 FoxCharts 所需的格式 (每个数据序列都在同一字段中)。
 
 ![](FoxCharts%20Tools_VisualChartDesigner.png)
 
