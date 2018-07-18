@@ -25,18 +25,21 @@ FoxCharts 的目的：
 * Visual FoxPro 9 和来自 VFPX 的 GdiPlusX 库
 
 当前可用的图表：
-* Single Bars, Multiple Bars, Stacked Bars, Shapes or points, Lines, Area, Pie and Donut charts, in various color variations, using gradients, custom colors, transparent, basic and random colors.
-* Titles, subtitles and legends
-* Scales, Both Axis
-* Drawing texts inside shapes
 
-## Examples
+(猫了个咪，图表名称不好翻译，直译...)
 
-More detailed information about this release can be found at the TXT file that is in the FoxCharts zipped file.
+* 使用渐变、自定义颜色、透明、基本和随机颜色的各种颜色变体中的单个条形、多个条形、堆积条形、形状或点、线条、区域、饼图图表。
+* 标题，副标题和图例
+* 坐标和坐标刻度
+* 在形状上绘制文本
 
-To get more familiarized with what FoxCharts can do, download the file above and run the samples available, playing with all the options.
+## 例子
 
-Just start running DEMOSTART.PRG in the "Samples" folder.
+有关此版本的更详细信息, 可以在 FoxCharts 压缩文件中的 TXT 文件中找到。
+
+要了解 FoxCharts 可以做什么, 请下载上面的文件并运行可用的示例, 并尝试所有选项。
+
+要开始运行示例，仅需运行 Samples 文件夹下的 DEMOSTART.PRG 。
 
 ![](FoxCharts_1Donut.png)
 ![](FoxCharts_2Line.png)
