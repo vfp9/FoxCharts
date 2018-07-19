@@ -76,22 +76,22 @@ JRN_FoxCharts_Tools 目录包含以下文件：
 * 推出新的刷子类型：HatchBrush Color, Textures Brush
 * 右键单击图表中的侧边图例，可以调用一个新表单，该表单允许以交互方式更改应用于侧边图例的显示方式。 你可以更改图例位置，颜色和其他字符格式。
 
-*New properties:*
-* GradientShapeDirection: Numeric, determines the Gradient Brush direction (0-3).
-* GradientVertCount and GradientHorCount: Numeric, determines the Shape Gradient Brush stripes count (vertical and horizontal)
+*新属性：*
+* GradientShapeDirection: 数值型，确定渐变画笔方向（0-3）。
+* GradientVertCount and GradientHorCount: 数值型，确定 Shape Gradient Brush 条纹数（垂直和水平方向）。
 
-*Fixes:*  
-Fix in "System.app". The distributed version avoids some bugs due to LOCAL variables declarations inside TRY/CATCH. May work faster in local net.
+*修复：*  
+修复 "System.app" 中的 BUG。在发布的版本中，如果在 TRY/CATCH 结构中使用 Local 语句，会触发一些 BUG，这在释放的版本中对此进行了规避。现在它可以工作的更高效。
 
-*VERY IMPORTANT:*  
-Since this new version brings several modifications, the new and current Beta version is a subclass of the original and latest FoxCharts version v1.37. The new class is in the Foxcharts1.46_Beta folder, named FoxChartsBeta.vcx.
+*非常重要：*  
+由于这个新版本带来了一些修改, 新的和当前的 Beta 版本是原始的和最新的 FoxCharts 版本 v1.37 的子类。新类位于 Foxcharts1.46_Beta 文件夹中, 名为 FoxChartsBeta. vcx。
 
-All new samples, the ones that will benefit from the newest features, are in the SamplesBeta folder.
+所有新的示例 (将从最新的功能中受益) 都在 SamplesBeta 文件夹中。
 
-Start playing with the ChartsSample_ArrowsInLegend.scx form.
-- Change the spinner values to see the new charts available
-- Click on the Side Legends, to see cool stripes 
-- Right-click the over the SideLegends to call the new SideLegends form, and play with the new possibilities!
+开始使用 ChartsSample_ArrowsInLegend.scx 表单。
+- 更改微调器值以查看可用的新图表
+- 点击侧边图例，看看酷炫的条纹
+- 右键单击侧边图例，调用新的 SideLegends 表单，并使用新的特性！
 
 ![](FoxChartsNew_4.png)
 
