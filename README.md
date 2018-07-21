@@ -97,14 +97,14 @@ JRN_FoxCharts_Tools 目录包含以下文件：
 
 ![](FoxChartsNew_3.png)
 
-*Info for version 1.42 ALPHA*
-- all objects of chart react on mousemove showing its contour
-- all objects have their own form to adjust. Just Right Click on them.
-- Right click on chart (not on objects) will call form to adjust common properties
-- For ChartType=3 (single type) one can see arrows that show values o​f the increments
-- Title and subtitle can use chr(13)+chr(10) inside
-- One can store properties in memo field of file ChartsList.
-- Shape legend changed
+*version 1.42 ALPHA 的信息*
+- 图表的所有对象都会在鼠标移动在其上时显示轮廓
+- 所有对象都有属于自己的属性调整表单，而你要做的，仅仅是右击它们。
+- 右键单击图表（不是对象）将调用表单来调整常用属性
+- 对于ChartType = 3（单一类型），可以看到显示增量值的箭头
+- 标题和副标题可以使用chr（13）+ chr（10）
+- 可以在文件 ChartsList 的备注字段中存储属性设置。
+- 图例做了一些更改
 
 *Info for version 1.43 ALPHA*
 - New chart object- Comment. You can add new comment, edit and delete it(right click). As well as drag and drop existing comments object on chart.
@@ -142,11 +142,11 @@ Checking GetChartProperties(3, .F. ) to be empty gives the same result as News=.
 * Object Shapes includes non visual auxiliary objects - one for each shape on canvas.
 You can use this objects in your programs.
 
-## Acknowledgements
+## 鸣谢
 
-Special thanks to: Bo Durban, James R. Nelson and Alex Yudin for their big contributions developing new possibilities.
+特别感谢：Bo Durban，James R. Nelson和Alex Yudin为开发新的可能性做出的巨大贡献。
 
-Also to the very big list of contributors who have given lots of feedback, suggestions, reported bugs, asked for features.
-You all rock guys !
+此外，对于提供大量反馈，建议，错误报告，要求功能的名单数不胜数。
+你们都是最棒的！
 
-THANKS SO MUCH !
+非常感谢 ！
