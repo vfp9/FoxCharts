@@ -73,7 +73,7 @@ JRN_FoxCharts_Tools 目录包含以下文件：
 
 *新功能：*
 * 推出新的 Bar 类型：锥形，圆锥形，四棱锥体和截锥体。
-* 推出新的刷子类型：HatchBrush Color, Textures Brush
+* 推出新的刷子类型：颜色刷子和纹理刷子(HatchBrush Color, Textures Brush)
 * 右键单击图表中的侧边图例，可以调用一个新表单，该表单允许以交互方式更改应用于侧边图例的显示方式。 你可以更改图例位置，颜色和其他字符格式。
 
 *新属性：*
