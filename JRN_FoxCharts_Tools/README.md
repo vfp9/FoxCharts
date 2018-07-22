@@ -1,7 +1,7 @@
 # JRN_FoxCharts_Tools
 ### 作者 Jim Nelson
 
-翻译：xinjie  2018.0722
+翻译：xinjie  2018.07.22
 
 此工具是 FoxCharts 的扩展：
 
