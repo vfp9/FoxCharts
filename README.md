@@ -116,28 +116,27 @@ JRN_FoxCharts_Tools 目录包含以下文件：
 
 *version 1.44 Beta 的信息*
 * 新增表单 charts_rowchange.scx 演示了如何在 grid 的 AfterRowColChange 事件中生成图表。
-* Simple form ChartExport.scx demonstrates calls ChartExport.prg that send Chart image to Clipboard, MS Excel, MS Word, OO Writer and just to printer with no form at all.
-* Read comments inside this ChartExport.prg
+* 示例表单 ChartExport.scx 演示了如何调用 ChartExport.prg ，它可以将图表输出到剪贴板、MS Excel、MS Word、Open Office 以及直接打印输出。
+* 阅读 ChartExport.prg 中的注释
 
-*Info for version 1.45*  
-* New form ChartsMovie shows charts speed for different properties
+*version 1.45 的信息*  
+* 新的示例表单 ChartsMovie 显示了针对不同的属性图表生成的速度。
 
-*Info for version 1.45.2*  
-* Multi BarChart.
-* Collection Fields has new property Bartype.
-* Look form AfterRowColChange.
+*version 1.45.2 的信息*  
+* 可以在一张图表中显示多种类型的图表。
+* Collection 字段增加了新的属性 Bartype.
+* 查阅 AfterRowColChange.
 
-*Info for version 1.45.3*  
-* New propery "News". Form Chartssample_v1_4x start with Form.foxcharts1.News = .F.
-* If you change any property News become = .T.
-Checking GetChartProperties(3, .F. ) to be empty gives the same result as News=.F.
+*version 1.45.3 的信息*  
+* 新的属性 "News" 。表单 Chartssample_v1_4x 的初始设置是 Form.foxcharts1.News = .F.
+* 如果你更改 News 属性值为 .T.，你可以使用 GetChartProperties(3, .F. ) 来获得和 News = .F. 一样的结果。
 
-*Info for version 1.46 Beta*  
-* New form chartssamples_v1_4x stands for calling forms of versions 1.4x
-* New property "Sleep" - logical. When Sleep=.T. prevents unnecessary calling DrawChart (like Resize method).
-* Form charts_rowchange.scx shows way to animated changing charts
+*version 1.46 Beta 的信息*  
+* 新表单 chartssamples_v1_4x 作为调用 versions 1.4x 的标准表单。
+* 新属性 "Sleep" - 逻辑型。当 Sleep = .T. 时可以避免频繁的调用 DrawChart (例如当你调整表单大小时).
+* 表单 charts_rowchange.scx 演示了如何动画式的更改图表。
 
-*Info for version 1.46.1 Beta*  
+*version 1.46.1 Beta 的信息*  
 * Now 3 1.4x sample forms include button "Form objects" (left top side) to look all form objects and their properties, methods and events.
 * Object Shapes includes non visual auxiliary objects - one for each shape on canvas.
 You can use this objects in your programs.
