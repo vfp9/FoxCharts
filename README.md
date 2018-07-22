@@ -1,6 +1,6 @@
 # FoxCharts
 
-翻译：xinjie  2018.07.18
+翻译：xinjie  2018.07.18 - 2018.07.22
 
 **基于 GdiPlusX 中 ImageCanvas 类的子类, 它允许 VFP 开发人员直接绘制图表。**
 
