@@ -106,16 +106,16 @@ JRN_FoxCharts_Tools 目录包含以下文件：
 - 可以在文件 ChartsList 的备注字段中存储属性设置。
 - 图例做了一些更改
 
-*Info for version 1.43 ALPHA*
-- New chart object- Comment. You can add new comment, edit and delete it(right click). As well as drag and drop existing comments object on chart.
-- Start form Chartssample_v1_4x.scx from project. This is sample for all v.4x versions features.
+*version 1.43 ALPHA 的信息*
+- 新的图表对象 - 注释。你现在可以增加一个新的注释，并且可以编辑和删除它（右击）。同时，你可以在图标中对它进行拖拽。
+- 所有 v.4x 版本的特性，你可以在项目的 Chartssample_v1_4x.scx 表单中查看。
 
-*Info for version 1.43 BETA*
-- Fixed bugs
-- OO Writer report
+*version 1.43 BETA 的信息*
+- 修复了一些 BUG
+- 添加输出到 Open Office 。
 
-*Info for version 1.44 Beta*
-* New form charts_rowchange.scx demonstrates generating charts on  AfterRowColChange event of grid.
+*version 1.44 Beta 的信息*
+* 新增表单 charts_rowchange.scx 演示了如何在 grid 的 AfterRowColChange 事件中生成图表。
 * Simple form ChartExport.scx demonstrates calls ChartExport.prg that send Chart image to Clipboard, MS Excel, MS Word, OO Writer and just to printer with no form at all.
 * Read comments inside this ChartExport.prg
 
