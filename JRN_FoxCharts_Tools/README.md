@@ -1,15 +1,17 @@
 # JRN_FoxCharts_Tools
-### By Jim Nelson
+### 作者 Jim Nelson
 
-This toolkit contains a couple of add-on tools not part of FoxCharts proper:
+翻译：xinjie  2018.0722
 
-*	VisualChartDesigner – a tool which allows either the developer or an end user to make changes to the FoxCharts properties and see their immediate effect.  VisualChartDesigner can be added to any existing chart by adding a single control to the FoxCharts container of an chart, cmdChartOptions of VISUALCHARTDESIGNER.VCX.
-*	GetChartDataFromRows – a PRG to convert data series which originates in rows into the format that FoxCharts requires (where each data series is in a field).
+此工具是 FoxCharts 的扩展：
 
-The JRN_FoxCharts_Tools folder contains the following items:
+*	VisualChartDesigner – 一种工具, 允许开发人员或最终用户对 FoxCharts 属性进行更改, 并查看它们的即时效果。通过将单个控件添加到图表的 FoxCharts 容器中, 可以将 VisualChartDesigner 添加到任何现有图表中：cmdChartOptions of VISUALCHARTDESIGNER.VCX
+*	GetChartDataFromRows – PRG将源自行的数据系列转换为FoxCharts所需的格式（每个数据系列都在一个字段中）。
+
+JRN_FoxCharts_Tools 文件夹包含以下项目：
 
 *	VisualChartDesigner.VCX
 *	GetChartDataFromRows.PRG
-*	A Documentation folder, which contains a separate document for each of the tools.
-*	A Samples folder, which contains VisualChartDesigner_Sample.SCX
-*	An additional form and class; you will not reference either of these, but both are used by the VisualChartDesigner.
+*	一个 Documentation 目录，包含针对每个工具的文档。
+*	一个 Samples 目录，包含 VisualCHartDesigner 的示例表单：Sample.SCX。
+*	一个附加的表单和类；你无需引用它们，它们用于 VisualChartDesigner 。
