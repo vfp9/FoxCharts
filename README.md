@@ -137,9 +137,9 @@ JRN_FoxCharts_Tools 目录包含以下文件：
 * 表单 charts_rowchange.scx 演示了如何动画式的更改图表。
 
 *version 1.46.1 Beta 的信息*  
-* Now 3 1.4x sample forms include button "Form objects" (left top side) to look all form objects and their properties, methods and events.
-* Object Shapes includes non visual auxiliary objects - one for each shape on canvas.
-You can use this objects in your programs.
+* 这个版本提供三个 1.4x 版本的示例，示例表单的左上角有一个“表单对象”按钮，你可以点击它查看所有的表单对象以及它们的属性、事件、方法。
+* 对象 Shapes 包含非可视的辅助对象 - 画布上的每个 Shape 都有一个。
+你可以在你的应用程序里使用这个对象。
 
 ## 鸣谢
 
