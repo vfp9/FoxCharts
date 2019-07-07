@@ -1,28 +1,28 @@
-å½“å‰ç‰ˆæœ¬çš„ç›¸å…³ä¿¡æ¯ -  FOXCHARTS 1.20 PRODUCTION RELEASE
+µ±Ç°°æ±¾µÄÏà¹ØÐÅÏ¢ -  FOXCHARTS 1.20 PRODUCTION RELEASE
 
 +++ PRODUCTION RELEASE +++
 
-éžå¸¸é‡è¦
+·Ç³£ÖØÒª
 ====================================
 
-æ­¤ç‰ˆæœ¬ä½¿ç”¨æœ€æ–°ç‰ˆæœ¬çš„GdiPlusX  -  1.20
+´Ë°æ±¾Ê¹ÓÃ×îÐÂ°æ±¾µÄGdiPlusX  -  1.20
 
-FoxChartséœ€è¦å®ƒæ¥è¿›è¡Œæœ€æ–°çš„æ”¹è¿›
-å› æ­¤ï¼Œå¦‚æžœæ‚¨å·²ç»å®‰è£…äº†System.Appç‰ˆæœ¬ï¼Œè¯·ç¡®ä¿æ›´æ–°å®ƒä¸ºè¿™ä¸ªæ–°ç‰ˆæœ¬ï¼Œå› ä¸ºFoxCharts / GdiPlusXè‡ªå·±ä¸ä¼šå®šä½åˆ°æ­£ç¡®çš„ç‰ˆæœ¬ã€‚
-ä½¿ç”¨æ–°ç‰ˆæœ¬æ˜¯å®‰å…¨çš„ï¼Œä¸è¦å®³æ€•æ›´æ¢æ‚¨çš„ç”Ÿäº§ç‰ˆæœ¬ - ä½†æ— è®ºå¦‚ä½•ï¼Œè¯·ä¿ç•™æ—§ç‰ˆæœ¬çš„å‰¯æœ¬ï¼Œä»¥é˜²å‡ºçŽ°ä¸Žæ­¤æ–°ç‰ˆæœ¬ç›¸å…³çš„æŸäº›é—®é¢˜ã€‚
+FoxChartsÐèÒªËüÀ´½øÐÐ×îÐÂµÄ¸Ä½ø
+Òò´Ë£¬Èç¹ûÄúÒÑ¾­°²×°ÁËSystem.App°æ±¾£¬ÇëÈ·±£¸üÐÂËüÎªÕâ¸öÐÂ°æ±¾£¬ÒòÎªFoxCharts / GdiPlusX×Ô¼º²»»á¶¨Î»µ½ÕýÈ·µÄ°æ±¾¡£
+Ê¹ÓÃÐÂ°æ±¾ÊÇ°²È«µÄ£¬²»Òªº¦ÅÂ¸ü»»ÄúµÄÉú²ú°æ±¾ - µ«ÎÞÂÛÈçºÎ£¬Çë±£Áô¾É°æ±¾µÄ¸±±¾£¬ÒÔ·À³öÏÖÓë´ËÐÂ°æ±¾Ïà¹ØµÄÄ³Ð©ÎÊÌâ¡£
 
 
-FOXCHARTS å¼€å‘ç»„
+FOXCHARTS ¿ª·¢×é
 ====================================
-é¡¹ç›®ç»ç†: Cesar http://weblogs.foxite.com/vfpimaging
+ÏîÄ¿¾­Àí: Cesar http://weblogs.foxite.com/vfpimaging
 
-å¼€å‘è€…ï¼š
+¿ª·¢Õß£º
    Cesar Ch
    Bo Durban
    Jim Nelson
 
 
-åˆä½œè€… - ä¸€ç›´æä¾›éžå¸¸æœ‰ä»·å€¼çš„æ”¯æŒå’Œåé¦ˆçš„äººï¼š
+ºÏ×÷Õß - Ò»Ö±Ìá¹©·Ç³£ÓÐ¼ÛÖµµÄÖ§³ÖºÍ·´À¡µÄÈË£º
    Grego Kandirys
    Paulo Henrique
    Thiago Takehana
@@ -47,374 +47,374 @@ FOXCHARTS å¼€å‘ç»„
    Karl Schierman
 
 
-ç‰¹åˆ«æ„Ÿè°¢ Bo Durban çš„æŒç»­å¤§åŠ›æ”¯æŒï¼Œå¹¶ä¸ºæœ¬é¡¹ç›®å¸¦æ¥äº†æ–°çš„å¯èƒ½æ€§ã€‚
-Jim Nelson å’Œ Alex Yudin ä¹Ÿæä¾›äº†éžå¸¸é‡è¦çš„å¸®åŠ©å’Œå»ºè®®ã€‚è¿™ä¸ªæ–°ç‰ˆæœ¬ä¸­æœ‰å¾ˆå¤šä¸œè¥¿éƒ½æœ‰ä»–ä»¬çš„å‚ä¸Žã€‚
+ÌØ±ð¸ÐÐ» Bo Durban µÄ³ÖÐø´óÁ¦Ö§³Ö£¬²¢Îª±¾ÏîÄ¿´øÀ´ÁËÐÂµÄ¿ÉÄÜÐÔ¡£
+Jim Nelson ºÍ Alex Yudin Ò²Ìá¹©ÁË·Ç³£ÖØÒªµÄ°ïÖúºÍ½¨Òé¡£Õâ¸öÐÂ°æ±¾ÖÐÓÐºÜ¶à¶«Î÷¶¼ÓÐËûÃÇµÄ²ÎÓë¡£
 
 
 
 
-æ­¤ç‰ˆæœ¬è¿˜åŒ…å«å‡ ä¸ªä¿®å¤ç¨‹åºå’Œæ–°åŠŸèƒ½ï¼Œå¦‚ä¸‹æ‰€ç¤º
+´Ë°æ±¾»¹°üº¬¼¸¸öÐÞ¸´³ÌÐòºÍÐÂ¹¦ÄÜ£¬ÈçÏÂËùÊ¾
 
 
 FEATURES since version 1.00 RC
 ====================================
-æ–°å±žæ€§ - "OldStyleProperties"
-*** é‡è¦æç¤ºï¼šå±žæ€§â€œoldstylepropertiesâ€è¡¨ç¤ºæ‚¨æ˜¯å¦ä½¿ç”¨æ—§æœ‰æ–¹å¼ï¼ˆ.FieldValue1ï¼‰ã€‚ ä½†æ˜¯ï¼Œæ­¤å˜é‡çš„é»˜è®¤å€¼ä¸º.F.ï¼Œå› æ­¤ä½¿ç”¨æ—§æœ‰æ–¹å¼åˆ›å»ºå›¾è¡¨å°†å¤±è´¥ï¼Œç›´åˆ°æ­¤å±žæ€§å€¼è®¾ç½®ä¸º.T.ä¸ºæ­¢ã€‚
+ÐÂÊôÐÔ - "OldStyleProperties"
+*** ÖØÒªÌáÊ¾£ºÊôÐÔ¡°oldstyleproperties¡±±íÊ¾ÄúÊÇ·ñÊ¹ÓÃ¾ÉÓÐ·½Ê½£¨.FieldValue1£©¡£ µ«ÊÇ£¬´Ë±äÁ¿µÄÄ¬ÈÏÖµÎª.F.£¬Òò´ËÊ¹ÓÃ¾ÉÓÐ·½Ê½´´½¨Í¼±í½«Ê§°Ü£¬Ö±µ½´ËÊôÐÔÖµÉèÖÃÎª.T.ÎªÖ¹¡£
 
 
-ï¼æ ¹æ®ç‰ˆæœ¬0.40æ¢å¤â€œ3Dæ¡å½¢å›¾â€å’Œâ€œå †ç§¯é¢ç§¯å›¾â€çš„æžšä¸¾ç±»åž‹
-å› æ­¤ï¼ŒçŽ°åœ¨3Dæ¡å½¢å›¾å…·æœ‰æžšä¸¾11ï¼Œè€Œå †ç§¯åŒºåŸŸåˆ™è¿”å›ž10ã€‚ å¯¹äºŽä½¿ç”¨10ä½œä¸ºå€¼çš„çŽ°æœ‰åº”ç”¨ç¨‹åºè€Œè¨€ï¼Œè¿™å°†æ˜¯ä¸€ä¸ªé—®é¢˜ï¼Œè€Œç‰ˆæœ¬0.40å·²ç»è¶…è¿‡1400æ¬¡ä¸‹è½½
+£¡¸ù¾Ý°æ±¾0.40»Ö¸´¡°3DÌõÐÎÍ¼¡±ºÍ¡°¶Ñ»ýÃæ»ýÍ¼¡±µÄÃ¶¾ÙÀàÐÍ
+Òò´Ë£¬ÏÖÔÚ3DÌõÐÎÍ¼¾ßÓÐÃ¶¾Ù11£¬¶ø¶Ñ»ýÇøÓòÔò·µ»Ø10¡£ ¶ÔÓÚÊ¹ÓÃ10×÷ÎªÖµµÄÏÖÓÐÓ¦ÓÃ³ÌÐò¶øÑÔ£¬Õâ½«ÊÇÒ»¸öÎÊÌâ£¬¶ø°æ±¾0.40ÒÑ¾­³¬¹ý1400´ÎÏÂÔØ
 
 
 
-åˆ†ç¦»é¥¼å›¾æˆ–åœ†çŽ¯å›¾åˆ‡ç‰‡æ—¶åŠ¨ç”»çš„æ–°å±žæ€§
-"PieDetachAnimationSteps" - æ•´åž‹
+·ÖÀë±ýÍ¼»òÔ²»·Í¼ÇÐÆ¬Ê±¶¯»­µÄÐÂÊôÐÔ
+"PieDetachAnimationSteps" - ÕûÐÍ
 
 
 
 Info for version 1.00.3 RC
 ------------------------------------------------------------------------------------------
-å‡ ä¸ªä¿®å¤
-ä¿¡æ¯æç¤ºä½ç½®
-ä¿®å¤äº† pgFrames çš„é—®é¢˜
+¼¸¸öÐÞ¸´
+ÐÅÏ¢ÌáÊ¾Î»ÖÃ
+ÐÞ¸´ÁË pgFrames µÄÎÊÌâ
 
 
 
 Info for version 1.00.4 RC
 ------------------------------------------------------------------------------------------
-æˆ‘ä»¬æ­£åœ¨å¼€å‘ä¸€ä¸ªCHMå¸®åŠ©æ–‡ä»¶ã€‚ è¿™ä»ç„¶éžå¸¸ç²—ç³™ï¼Œä½†åŒ…å«ä¸€äº›æ‚¨å¯èƒ½ä¼šè§‰å¾—æœ‰ç”¨çš„éžå¸¸åŸºæœ¬çš„ä¿¡æ¯ã€‚
+ÎÒÃÇÕýÔÚ¿ª·¢Ò»¸öCHM°ïÖúÎÄ¼þ¡£ ÕâÈÔÈ»·Ç³£´Ö²Ú£¬µ«°üº¬Ò»Ð©Äú¿ÉÄÜ»á¾õµÃÓÐÓÃµÄ·Ç³£»ù±¾µÄÐÅÏ¢¡£
 
-æ–°çš„å±žæ€§ - â€œDebugâ€
-åˆ›å»ºæ–‡ä»¶â€œFoxCharts.logâ€ï¼Œå…¶ä¸­åŒ…å«æœ‰å…³FoxChartsç”Ÿæˆçš„é”™è¯¯çš„ç›¸å…³ä¿¡æ¯ã€‚
-å¦‚æžœå‘çŽ°ä¸€äº›é”™è¯¯ï¼Œè¯·ç”Ÿæˆæ­¤æ–‡ä»¶ï¼Œå°†å±žæ€§â€œDebugâ€è®¾ç½®ä¸º.T. ï¼Œå¹¶é‡æ–°åˆ›å»ºé”™è¯¯ã€‚
-è¯·å°†æ—¥å¿—æ–‡ä»¶å‘é€åˆ°vfpimaging@hotmail.com
+ÐÂµÄÊôÐÔ - ¡°Debug¡±
+´´½¨ÎÄ¼þ¡°FoxCharts.log¡±£¬ÆäÖÐ°üº¬ÓÐ¹ØFoxChartsÉú³ÉµÄ´íÎóµÄÏà¹ØÐÅÏ¢¡£
+Èç¹û·¢ÏÖÒ»Ð©´íÎó£¬ÇëÉú³É´ËÎÄ¼þ£¬½«ÊôÐÔ¡°Debug¡±ÉèÖÃÎª.T. £¬²¢ÖØÐÂ´´½¨´íÎó¡£
+Çë½«ÈÕÖ¾ÎÄ¼þ·¢ËÍµ½vfpimaging@hotmail.com
 
-æ–°çš„å…¬å…±æ•°ç»„å±žæ€§ï¼šâ€œaCoordâ€
-å­˜å‚¨æœ‰å…³é¼ æ ‡ä¸‹å¯¹è±¡çš„ä¿¡æ¯çš„æ•°ç»„ï¼Œå¦‚Xï¼ŒYï¼ŒWidthï¼ŒHeightï¼ŒValueï¼ŒLegendï¼ŒStartï¼ŒSweepï¼ŒChartIndexï¼ŒRECNOï¼ˆï¼‰ï¼ŒObjTypeã€‚ æœ‰å…³å¯ç”¨ä¿¡æ¯çš„è¯¦ç»†ä¿¡æ¯ï¼Œè¯·å‚é˜…å¸®åŠ©ã€‚
+ÐÂµÄ¹«¹²Êý×éÊôÐÔ£º¡°aCoord¡±
+´æ´¢ÓÐ¹ØÊó±êÏÂ¶ÔÏóµÄÐÅÏ¢µÄÊý×é£¬ÈçX£¬Y£¬Width£¬Height£¬Value£¬Legend£¬Start£¬Sweep£¬ChartIndex£¬RECNO£¨£©£¬ObjType¡£ ÓÐ¹Ø¿ÉÓÃÐÅÏ¢µÄÏêÏ¸ÐÅÏ¢£¬Çë²ÎÔÄ°ïÖú¡£
 
-æ”¯æŒ Axis2 ä¸­çš„å¤šè¡Œæ–‡æœ¬
+Ö§³Ö Axis2 ÖÐµÄ¶àÐÐÎÄ±¾
 
 
 
 Info for version 1.00.7 RC
 ------------------------------------------------------------------------------------------
-çŽ°åœ¨ï¼Œå½“ä¼ é€’ä¸€ä¸ªç©ºæ¸¸æ ‡æ—¶ï¼Œåªä¼šç»˜åˆ¶èƒŒæ™¯å’Œæ ‡é¢˜ - ä¸ä¼šå¼•å‘é”™è¯¯
-CWollenhaupt ä¿®å¤äº†â€œGetAdJustedAngleâ€ -  é¥¼å›¾å’Œåœ†çŽ¯å›¾ä»…åœ¨å³ä¾§ç»˜åˆ¶
-â€œFieldAxis2â€æ”¯æŒæ—¥æœŸç±»åž‹çš„æ”¯æŒ
-ä¿®å¤ç¤ºä¾‹
-å¢žåŠ æ–°ç¤ºä¾‹
+ÏÖÔÚ£¬µ±´«µÝÒ»¸ö¿ÕÓÎ±êÊ±£¬Ö»»á»æÖÆ±³¾°ºÍ±êÌâ - ²»»áÒý·¢´íÎó
+CWollenhaupt ÐÞ¸´ÁË¡°GetAdJustedAngle¡± -  ±ýÍ¼ºÍÔ²»·Í¼½öÔÚÓÒ²à»æÖÆ
+¡°FieldAxis2¡±Ö§³ÖÈÕÆÚÀàÐÍµÄÖ§³Ö
+ÐÞ¸´Ê¾Àý
+Ôö¼ÓÐÂÊ¾Àý
 
 
 Info for version 1.00.9 RC
 ------------------------------------------------------------------------------------------
-æ–°äº‹ä»¶â€œShapeToolTipsâ€
-æ”¹å–„å±žæ€§æè¿°
-æ–°ç¤ºä¾‹ ChartSample_Tooltips
+ÐÂÊÂ¼þ¡°ShapeToolTips¡±
+¸ÄÉÆÊôÐÔÃèÊö
+ÐÂÊ¾Àý ChartSample_Tooltips
 
 
 Info for version 1.00.10 RC
 ------------------------------------------------------------------------------------------
-æ–°å±žæ€§â€œBackGroundAlphaâ€ - æ•°å­—ï¼Œç¡®å®šèƒŒæ™¯é¢œè‰²çš„Alphaï¼ˆ0-255ï¼‰
-è°ƒæ•´ä¿¡æ¯æç¤ºï¼Œå¦‚æžœä¿¡æ¯æç¤ºéœ€è¦è¶…å‡ºå›¾è¡¨è¾¹ç•Œï¼Œåˆ™è¡¥å¿ä½ç½®
+ÐÂÊôÐÔ¡°BackGroundAlpha¡± - Êý×Ö£¬È·¶¨±³¾°ÑÕÉ«µÄAlpha£¨0-255£©
+µ÷ÕûÐÅÏ¢ÌáÊ¾£¬Èç¹ûÐÅÏ¢ÌáÊ¾ÐèÒª³¬³öÍ¼±í±ß½ç£¬Ôò²¹³¥Î»ÖÃ
 
 
 Info for version 1.00.11 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤è§’åº¦è®¡ç®—ï¼Œä»¥ä¾¿åœ¨é¥¼å›¾/åœ†çŽ¯å›¾çš„ç¬¬ä¸€è±¡é™è¿›è¡Œæ­£ç¡®çš„é¼ æ ‡æ£€æµ‹
-çŽ°åœ¨ä½¿ç”¨Canvasçš„Graphicså¯¹è±¡è°ƒæ•´YAxiså›¾ä¾‹ç»˜å›¾ï¼Œä»¥ä¿æŒEMFè¾“å‡ºçš„è´¨é‡
+ÐÞ¸´½Ç¶È¼ÆËã£¬ÒÔ±ãÔÚ±ýÍ¼/Ô²»·Í¼µÄµÚÒ»ÏóÏÞ½øÐÐÕýÈ·µÄÊó±ê¼ì²â
+ÏÖÔÚÊ¹ÓÃCanvasµÄGraphics¶ÔÏóµ÷ÕûYAxisÍ¼Àý»æÍ¼£¬ÒÔ±£³ÖEMFÊä³öµÄÖÊÁ¿
 
 
 Info for version 1.00.12 RC
 ------------------------------------------------------------------------------------------
-æ–°å±žæ€§ "ScaleDivider"
-æ•°å€¼åž‹ã€‚æŒ‡å®šåˆ»åº¦åˆ’åˆ†çš„å€¼ã€‚å½“å€¼éžå¸¸å¤§æ—¶è¿™ä¸ªå±žæ€§éžå¸¸æœ‰ç”¨ï¼Œå¹¶ä¸”å¯ä»¥å‡å°‘åˆ»åº¦ä»¥æä¾›å¯¹å›¾è¡¨çš„æ›´ç®€å•ç†è§£ã€‚
-å‡è®¾æ‚¨çš„æœ€å¤§å€¼ä¸º79,000ã€‚
-ä¹Ÿè®¸å¯¹äºŽè¿™ç§æƒ…å†µï¼Œå»ºè®®å°†åˆ»åº¦å€¼é™¤ä»¥1000ï¼Œä»¥èŽ·å¾—æ›´å¥½çš„å±•ç¤ºæ•ˆæžœã€‚
+ÐÂÊôÐÔ "ScaleDivider"
+ÊýÖµÐÍ¡£Ö¸¶¨¿Ì¶È»®·ÖµÄÖµ¡£µ±Öµ·Ç³£´óÊ±Õâ¸öÊôÐÔ·Ç³£ÓÐÓÃ£¬²¢ÇÒ¿ÉÒÔ¼õÉÙ¿Ì¶ÈÒÔÌá¹©¶ÔÍ¼±íµÄ¸ü¼òµ¥Àí½â¡£
+¼ÙÉèÄúµÄ×î´óÖµÎª79,000¡£
+Ò²Ðí¶ÔÓÚÕâÖÖÇé¿ö£¬½¨Òé½«¿Ì¶ÈÖµ³ýÒÔ1000£¬ÒÔ»ñµÃ¸üºÃµÄÕ¹Ê¾Ð§¹û¡£
 
 
-ä¿®æ­£äº†æ¯”ä¾‹è®¡ç®—ã€‚ å½“ï¼Ÿï¼Ÿï¼Ÿå€¼ç›¸ç­‰æˆ–ä½¿ç”¨å•åˆ—æ•°æ®æ—¶ï¼Œä¼šç”Ÿæˆé”™è¯¯çš„å›¾è¡¨
+ÐÞÕýÁË±ÈÀý¼ÆËã¡£ µ±£¿£¿£¿ÖµÏàµÈ»òÊ¹ÓÃµ¥ÁÐÊý¾ÝÊ±£¬»áÉú³É´íÎóµÄÍ¼±í
 
 
 Info for version 1.00.14 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤é¼ æ ‡ç›¸å¯¹ä½ç½®è®¡ç®—ã€‚ çŽ°åœ¨ä¿¡æ¯æç¤ºåœ¨ä»»ä½•ç±»åž‹çš„å¯¹è±¡ä¸­æ­£ç¡®æ˜¾ç¤ºä¸ºFoxChartsï¼šFormï¼ŒContaineræˆ–PageFrame
-æ·»åŠ äº†æ–°çš„æ–­ç‚¹ï¼Œä»¥ä¾¿æä¾›æ›´å‡†ç¡®çš„é”™è¯¯æ¶ˆæ¯
+ÐÞ¸´Êó±êÏà¶ÔÎ»ÖÃ¼ÆËã¡£ ÏÖÔÚÐÅÏ¢ÌáÊ¾ÔÚÈÎºÎÀàÐÍµÄ¶ÔÏóÖÐÕýÈ·ÏÔÊ¾ÎªFoxCharts£ºForm£¬Container»òPageFrame
+Ìí¼ÓÁËÐÂµÄ¶Ïµã£¬ÒÔ±ãÌá¹©¸ü×¼È·µÄ´íÎóÏûÏ¢
 
-æ–°å±žæ€§ - â€œShadowâ€ - é€»è¾‘ï¼Œç¡®å®šæ˜¯å¦å°†ç»˜åˆ¶é˜´å½±è€Œä¸æ˜¯3dæ·±åº¦æ•ˆæžœã€‚ é€‚ç”¨äºŽé¥¼å›¾ã€åœ†çŽ¯å›¾å’ŒæŸ±å½¢å›¾ã€æ¡å½¢å›¾
-
-
-æ”¹è¿›çš„æ¸å˜æ•ˆæžœ - çŽ°åœ¨æ‚¨å¯ä»¥æŒ‡å®šæ¸å˜ç›®æ ‡é¢œè‰²åœ¨å½¢çŠ¶ä¸­çš„ä½ç½®
-æ–°å±žæ€§
-
-"GradientPosition" - æ•°å€¼åž‹ã€‚å–å€¼èŒƒå›´ 0-1 ã€‚ç¡®å®šæ¸å˜ç›®æ ‡é¢œè‰²åœ¨å½¢çŠ¶ä¸­çš„ä½ç½®ã€‚ ä»Ž0åˆ°1çš„å€¼ï¼ŒæŒ‡å®šä»Žè·¯å¾„ä¸­å¿ƒåˆ°è·¯å¾„è¾¹ç•Œçš„ä»»ä½•å¾„å‘çš„ä¸­å¿ƒé¢œè‰²å°†å¤„äºŽæœ€é«˜å¼ºåº¦ã€‚ å€¼0.5ï¼ˆé»˜è®¤å€¼ï¼‰å°†æœ€é«˜å¼ºåº¦æ”¾åœ¨è·¯å¾„çš„ä¸­å¿ƒã€‚
-
-"GradientType" - æ•´åž‹
-      0 = SigmaBellï¼ˆé»˜è®¤ï¼‰ - æ¸å˜ç”»ç¬”ï¼Œä»Žè·¯å¾„ä¸­å¿ƒå‘å¤–æ›´æ”¹é¢œè‰²åˆ°è·¯å¾„è¾¹ç•Œã€‚ ä»Žä¸€ç§é¢œè‰²åˆ°å¦ä¸€ç§é¢œè‰²çš„è¿‡æ¸¡åŸºäºŽé’Ÿå½¢æ›²çº¿ã€‚ http://msdn.microsoft.com/en-us/library/bs92fkt6.aspx
-      1 = ä¸‰è§’å½¢ - å…·æœ‰ä¸­å¿ƒé¢œè‰²çš„æ¸å˜å’Œå¯¹æ¯ç§å‘¨å›´é¢œè‰²çš„çº¿æ€§è¡°å‡ã€‚http://msdn.microsoft.com/en-us/library/c5yfy1y0(VS.80).aspx
-
-"GradientInvertColors" - é€»è¾‘åž‹ã€‚ç¡®å®šæ˜¯å¦åè½¬æ¸å˜å¼€å§‹å’Œç›®æ ‡é¢œè‰²ã€‚
+ÐÂÊôÐÔ - ¡°Shadow¡± - Âß¼­£¬È·¶¨ÊÇ·ñ½«»æÖÆÒõÓ°¶ø²»ÊÇ3dÉî¶ÈÐ§¹û¡£ ÊÊÓÃÓÚ±ýÍ¼¡¢Ô²»·Í¼ºÍÖùÐÎÍ¼¡¢ÌõÐÎÍ¼
 
 
-æ¤­åœ†çš„æ¸å˜é¢œè‰²çš„ä¸­å¿ƒç‚¹ä¹Ÿå¯ä»¥å¾ˆå®¹æ˜“åœ°æ”¹å˜ã€‚ è¿™æ ·å°±å¯ä»¥ç²¾ç¡®æŽ§åˆ¶æ¸å˜åˆ°è¾¾ç›®æ ‡é¢œè‰²çš„ä½ç½®ã€‚ åªéœ€åœ¨ä¸‹é¢è®¾ç½®2ä¸ªæ–°å±žæ€§ï¼š
-"PieGradCenterAngle" - æ•°å­—ï¼Œå°†åº”ç”¨æ¸å˜ç”»ç¬”çš„æ‰€éœ€ä¸­å¿ƒç‚¹çš„è§’åº¦ï¼ˆ0-360ï¼‰ã€‚ ä¸Žâ€œPieGradCenterDistanceâ€ä¸€èµ·ä½¿ç”¨
-"PieGradCenterDistance" - æ•°å­—ï¼Œè·ç¦»ä¸­å¿ƒçš„è·ç¦»ï¼Œå°†åº”ç”¨æ¸å˜ç”»ç¬”çš„æ‰€éœ€ä¸­å¿ƒç‚¹ï¼ˆ-2ï¼Œ+ 2ï¼‰ã€‚ ä¸Žâ€œPieGradCenterAngleâ€ä¸€èµ·ä½¿ç”¨
+¸Ä½øµÄ½¥±äÐ§¹û - ÏÖÔÚÄú¿ÉÒÔÖ¸¶¨½¥±äÄ¿±êÑÕÉ«ÔÚÐÎ×´ÖÐµÄÎ»ÖÃ
+ÐÂÊôÐÔ
+
+"GradientPosition" - ÊýÖµÐÍ¡£È¡Öµ·¶Î§ 0-1 ¡£È·¶¨½¥±äÄ¿±êÑÕÉ«ÔÚÐÎ×´ÖÐµÄÎ»ÖÃ¡£ ´Ó0µ½1µÄÖµ£¬Ö¸¶¨´ÓÂ·¾¶ÖÐÐÄµ½Â·¾¶±ß½çµÄÈÎºÎ¾¶ÏòµÄÖÐÐÄÑÕÉ«½«´¦ÓÚ×î¸ßÇ¿¶È¡£ Öµ0.5£¨Ä¬ÈÏÖµ£©½«×î¸ßÇ¿¶È·ÅÔÚÂ·¾¶µÄÖÐÐÄ¡£
+
+"GradientType" - ÕûÐÍ
+      0 = SigmaBell£¨Ä¬ÈÏ£© - ½¥±ä»­±Ê£¬´ÓÂ·¾¶ÖÐÐÄÏòÍâ¸ü¸ÄÑÕÉ«µ½Â·¾¶±ß½ç¡£ ´ÓÒ»ÖÖÑÕÉ«µ½ÁíÒ»ÖÖÑÕÉ«µÄ¹ý¶É»ùÓÚÖÓÐÎÇúÏß¡£ http://msdn.microsoft.com/en-us/library/bs92fkt6.aspx
+      1 = Èý½ÇÐÎ - ¾ßÓÐÖÐÐÄÑÕÉ«µÄ½¥±äºÍ¶ÔÃ¿ÖÖÖÜÎ§ÑÕÉ«µÄÏßÐÔË¥¼õ¡£http://msdn.microsoft.com/en-us/library/c5yfy1y0(VS.80).aspx
+
+"GradientInvertColors" - Âß¼­ÐÍ¡£È·¶¨ÊÇ·ñ·´×ª½¥±ä¿ªÊ¼ºÍÄ¿±êÑÕÉ«¡£
 
 
-ç¤ºä¾‹â€œChartsSample_Newâ€é€‚ç”¨äºŽä½¿ç”¨è¿™äº›æ–°å±žæ€§ã€‚
-é€‰æ‹©é¢œè‰²é€‰é¡¹å¡ï¼Œç„¶åŽä½¿ç”¨å¾®è°ƒå™¨
+ÍÖÔ²µÄ½¥±äÑÕÉ«µÄÖÐÐÄµãÒ²¿ÉÒÔºÜÈÝÒ×µØ¸Ä±ä¡£ ÕâÑù¾Í¿ÉÒÔ¾«È·¿ØÖÆ½¥±äµ½´ïÄ¿±êÑÕÉ«µÄÎ»ÖÃ¡£ Ö»ÐèÔÚÏÂÃæÉèÖÃ2¸öÐÂÊôÐÔ£º
+"PieGradCenterAngle" - Êý×Ö£¬½«Ó¦ÓÃ½¥±ä»­±ÊµÄËùÐèÖÐÐÄµãµÄ½Ç¶È£¨0-360£©¡£ Óë¡°PieGradCenterDistance¡±Ò»ÆðÊ¹ÓÃ
+"PieGradCenterDistance" - Êý×Ö£¬¾àÀëÖÐÐÄµÄ¾àÀë£¬½«Ó¦ÓÃ½¥±ä»­±ÊµÄËùÐèÖÐÐÄµã£¨-2£¬+ 2£©¡£ Óë¡°PieGradCenterAngle¡±Ò»ÆðÊ¹ÓÃ
+
+
+Ê¾Àý¡°ChartsSample_New¡±ÊÊÓÃÓÚÊ¹ÓÃÕâÐ©ÐÂÊôÐÔ¡£
+Ñ¡ÔñÑÕÉ«Ñ¡Ïî¿¨£¬È»ºóÊ¹ÓÃÎ¢µ÷Æ÷
 
 
 
 Info for version 1.00.15 RC
 ------------------------------------------------------------------------------------------
-æ–°ç‰©ä¸š
-â€œShapeMousePointerâ€ - æ•°å­—ï¼ŒæŒ‡å®šé¼ æ ‡åœ¨è¿è¡Œæ—¶åœ¨å›¾è¡¨çš„å½¢çŠ¶ä¸Šæ—¶é¼ æ ‡æŒ‡é’ˆçš„å½¢çŠ¶
-â€œGradientShapeDirectionâ€ - æ•´æ•°ï¼Œï¼ˆ0-3ï¼‰ç¡®å®šæ¸å˜ç”»ç¬”å›¾è¡¨çš„æ¸å˜æ–¹å‘ï¼š0  - æ°´å¹³; 1  - åž‚ç›´; 2  - å¯¹è§’çº¿1; 3  - å¯¹è§’çº¿2
-æ”¹è¿›äº†â€œChartsSample_New.scxâ€ä»¥æ˜¾ç¤ºæ–°å±žæ€§çš„å·¥ä½œæ–¹å¼ï¼Œå¹¶å…è®¸ä»¥äº¤äº’æ–¹å¼æ›´æ”¹é¢œè‰²
+ÐÂÎïÒµ
+¡°ShapeMousePointer¡± - Êý×Ö£¬Ö¸¶¨Êó±êÔÚÔËÐÐÊ±ÔÚÍ¼±íµÄÐÎ×´ÉÏÊ±Êó±êÖ¸ÕëµÄÐÎ×´
+¡°GradientShapeDirection¡± - ÕûÊý£¬£¨0-3£©È·¶¨½¥±ä»­±ÊÍ¼±íµÄ½¥±ä·½Ïò£º0  - Ë®Æ½; 1  - ´¹Ö±; 2  - ¶Ô½ÇÏß1; 3  - ¶Ô½ÇÏß2
+¸Ä½øÁË¡°ChartsSample_New.scx¡±ÒÔÏÔÊ¾ÐÂÊôÐÔµÄ¹¤×÷·½Ê½£¬²¢ÔÊÐíÒÔ½»»¥·½Ê½¸ü¸ÄÑÕÉ«
 
 
 
 Info for version 1.00.16 RC
 ------------------------------------------------------------------------------------------
-å±žæ€§â€œaColorsâ€å’Œâ€œSingleDataâ€å·²é‡å‘½åï¼Œä»¥ä¾›è°ƒç”¨ã€‚
-â€œaColorsâ€ -  åªè¯»ï¼Œæ•°ç»„ï¼ŒåŒ…å«æœ‰å…³å›¾è¡¨å½“å‰é¢œè‰²çš„ä¿¡æ¯ã€‚ ä½¿ç”¨éšæœºé¢œè‰²æ—¶å¾ˆæœ‰ç”¨ã€‚
-â€œSimgleDataâ€ -  é€»è¾‘åž‹ï¼Œåªè¯»ï¼Œå‘Šè¯‰å½“å‰å›¾è¡¨æ˜¯å¦åŸºäºŽå•ä¸ªæ•°æ®ï¼Œä¾‹å¦‚é¥¼å›¾ã€åœ†çŽ¯å›¾å’ŒæŸ±å½¢å›¾ä»¥åŠæ¡å½¢å›¾
+ÊôÐÔ¡°aColors¡±ºÍ¡°SingleData¡±ÒÑÖØÃüÃû£¬ÒÔ¹©µ÷ÓÃ¡£
+¡°aColors¡± -  Ö»¶Á£¬Êý×é£¬°üº¬ÓÐ¹ØÍ¼±íµ±Ç°ÑÕÉ«µÄÐÅÏ¢¡£ Ê¹ÓÃËæ»úÑÕÉ«Ê±ºÜÓÐÓÃ¡£
+¡°SimgleData¡± -  Âß¼­ÐÍ£¬Ö»¶Á£¬¸æËßµ±Ç°Í¼±íÊÇ·ñ»ùÓÚµ¥¸öÊý¾Ý£¬ÀýÈç±ýÍ¼¡¢Ô²»·Í¼ºÍÖùÐÎÍ¼ÒÔ¼°ÌõÐÎÍ¼
 
 
 
 Info for version 1.00.17 RC
 ------------------------------------------------------------------------------------------
-æ–°æ–¹æ³• "SaveToFile" 
+ÐÂ·½·¨ "SaveToFile" 
 
-å‚æ•°ï¼š
-tcFile - å­—ç¬¦åž‹ï¼Œç›®æ ‡æ–‡ä»¶åã€‚ ç¡®ä¿æ·»åŠ æ‰©å±•åï¼Œå¦åˆ™å›¾è¡¨å°†ä»¥ PNG æ ¼å¼ä¿å­˜ã€‚
-tnQuality - æ•°å€¼åž‹ï¼Œç¡®å®šä¿å­˜ JPEG æ–‡ä»¶æ—¶è¦ä½¿ç”¨çš„å›¾åƒè´¨é‡ã€‚ ä»Ž0ï¼ˆä½Žè´¨é‡ï¼‰åˆ°100ï¼ˆæœ€ä½³è´¨é‡ï¼‰ã€‚
+²ÎÊý£º
+tcFile - ×Ö·ûÐÍ£¬Ä¿±êÎÄ¼þÃû¡£ È·±£Ìí¼ÓÀ©Õ¹Ãû£¬·ñÔòÍ¼±í½«ÒÔ PNG ¸ñÊ½±£´æ¡£
+tnQuality - ÊýÖµÐÍ£¬È·¶¨±£´æ JPEG ÎÄ¼þÊ±ÒªÊ¹ÓÃµÄÍ¼ÏñÖÊÁ¿¡£ ´Ó0£¨µÍÖÊÁ¿£©µ½100£¨×î¼ÑÖÊÁ¿£©¡£
 
-å°†å½“å‰å›¾è¡¨ä¿å­˜ä¸ºä¸ŽGdi +å…¼å®¹çš„å›¾åƒæ ¼å¼çš„æ–‡ä»¶ï¼šBmpï¼ŒPngï¼ŒJpegï¼ŒGifï¼ŒTiffå’ŒEmfã€‚
-åªéœ€å°†æ–‡ä»¶åä½œä¸ºå‚æ•°å‘é€ï¼ŒFoxChartså°†æ ¹æ®æ–‡ä»¶æ‰©å±•åä¿å­˜å½“å‰å›¾è¡¨ã€‚
-ç”¨æ³•ï¼š
+½«µ±Ç°Í¼±í±£´æÎªÓëGdi +¼æÈÝµÄÍ¼Ïñ¸ñÊ½µÄÎÄ¼þ£ºBmp£¬Png£¬Jpeg£¬Gif£¬TiffºÍEmf¡£
+Ö»Ðè½«ÎÄ¼þÃû×÷Îª²ÎÊý·¢ËÍ£¬FoxCharts½«¸ù¾ÝÎÄ¼þÀ©Õ¹Ãû±£´æµ±Ç°Í¼±í¡£
+ÓÃ·¨£º
 Thisform.FoxCharts1.SaveToFile("c:\MyChart.Png") && Png image file
 Thisform.FoxCharts1.SaveToFile("c:\MyChart.Jpg", 50) && 50% quality Jpg.
 
-è¦åœ¨ä¿å­˜æˆ–ä½¿ç”¨æŸäº›ç‰¹å®šç¼–ç å™¨æ—¶è¿›è¡Œå®Œå…¨æŽ§åˆ¶ï¼Œå¯ä»¥è®¿é—®FoxChartsçš„â€œoBmpâ€å±žæ€§å¹¶ä½¿ç”¨å¯ç”¨äºŽä½å›¾å¯¹è±¡çš„GdiPlusXå‘½ä»¤ã€‚
+ÒªÔÚ±£´æ»òÊ¹ÓÃÄ³Ð©ÌØ¶¨±àÂëÆ÷Ê±½øÐÐÍêÈ«¿ØÖÆ£¬¿ÉÒÔ·ÃÎÊFoxChartsµÄ¡°oBmp¡±ÊôÐÔ²¢Ê¹ÓÃ¿ÉÓÃÓÚÎ»Í¼¶ÔÏóµÄGdiPlusXÃüÁî¡£
 
-å‚çœ‹: oBmp
+²Î¿´: oBmp
 
 
 
 Info for version 1.00.18 RC
 ------------------------------------------------------------------------------------------
-æ”¹è¿›äº†é”™è¯¯LOGæ–‡ä»¶çš„ç”Ÿæˆ
-ä¿®å¤äº†ä¸ŽGdiPlusXç‰ˆæœ¬ç›¸å…³çš„é”™è¯¯
-ä¿®å¤äº† SET COMPATIBLE ON  - ä¸å†ä½¿ç”¨å‘½åé¢œè‰²
-ä¿®å¤äº†MouseMoveäº‹ä»¶
+¸Ä½øÁË´íÎóLOGÎÄ¼þµÄÉú³É
+ÐÞ¸´ÁËÓëGdiPlusX°æ±¾Ïà¹ØµÄ´íÎó
+ÐÞ¸´ÁË SET COMPATIBLE ON  - ²»ÔÙÊ¹ÓÃÃüÃûÑÕÉ«
+ÐÞ¸´ÁËMouseMoveÊÂ¼þ
 
 
 
 Info for version 1.00.19 RC
 ------------------------------------------------------------------------------------------
-è°ƒæ•´ç¤ºä¾‹ï¼Œä»¥ä¾¿ä½¿ç”¨å¯ç”¨çš„æ–°åŠŸèƒ½
-ä½¿ç”¨å±žæ€§â€œScaleDividerâ€åˆ»åº¦çš„è®¡ç®—ã€‚
-æ›´æ–°äº†è‡ª1.00RCä»¥æ¥æ·»åŠ çš„æ–°å±žæ€§çš„_Spelling
+µ÷ÕûÊ¾Àý£¬ÒÔ±ãÊ¹ÓÃ¿ÉÓÃµÄÐÂ¹¦ÄÜ
+Ê¹ÓÃÊôÐÔ¡°ScaleDivider¡±¿Ì¶ÈµÄ¼ÆËã¡£
+¸üÐÂÁË×Ô1.00RCÒÔÀ´Ìí¼ÓµÄÐÂÊôÐÔµÄ_Spelling
 
 
 
 Info for version 1.00.20b RC
 ------------------------------------------------------------------------------------------
-ä¿¡æ¯æç¤ºçŽ°åœ¨ä½äºŽçˆ¶çª—ä½“ä¸­ï¼ˆæœ€åˆä¿ç•™åœ¨FoxChartså®¹å™¨ä¸­ï¼‰ã€‚
-è¿™å°†å…è®¸åœ¨FoxChartsåœç•™åœ¨å…¶ä»–å¯¹è±¡ï¼ˆä¾‹å¦‚å¯æ»šåŠ¨å®¹å™¨ï¼‰å†…æ—¶æ˜¾ç¤ºä¿¡æ¯æç¤ºã€‚
+ÐÅÏ¢ÌáÊ¾ÏÖÔÚÎ»ÓÚ¸¸´°ÌåÖÐ£¨×î³õ±£ÁôÔÚFoxChartsÈÝÆ÷ÖÐ£©¡£
+Õâ½«ÔÊÐíÔÚFoxChartsÍ£ÁôÔÚÆäËû¶ÔÏó£¨ÀýÈç¿É¹ö¶¯ÈÝÆ÷£©ÄÚÊ±ÏÔÊ¾ÐÅÏ¢ÌáÊ¾¡£
 
-Fields() é›†åˆä¸­çš„æ–°å±žæ€§ï¼š "ShowValuesOnShape"
-ç¡®å®šæ˜¯å¦å°†ä»¥ç¡®å®šçš„å½¢çŠ¶ç»˜åˆ¶å€¼ã€‚å½“ä½ ä¸æƒ³æŠŠæ³¨æ„åŠ›é›†ä¸­åœ¨æŸä¸€è¡Œçš„æ—¶å€™å¾ˆæœ‰ç”¨ã€‚
+Fields() ¼¯ºÏÖÐµÄÐÂÊôÐÔ£º "ShowValuesOnShape"
+È·¶¨ÊÇ·ñ½«ÒÔÈ·¶¨µÄÐÎ×´»æÖÆÖµ¡£µ±Äã²»Ïë°Ñ×¢ÒâÁ¦¼¯ÖÐÔÚÄ³Ò»ÐÐµÄÊ±ºòºÜÓÐÓÃ¡£
 
-ç”¨æ³•ï¼š	.Fields(3).ShowValuesOnShape = .F.
+ÓÃ·¨£º	.Fields(3).ShowValuesOnShape = .F.
 
 
 
 Info for version 1.00.21 RC
 ------------------------------------------------------------------------------------------
-å·²ä¿®å¤ - ä¼ é€’NULLå€¼æ—¶ï¼Œå½¢çŠ¶ä¸Šçš„å€¼ä¸å†æ˜¾ç¤ºä¸ºâ€œé›¶â€
-å·²ä¿®å¤ - å½“é¢œè‰²ä½œä¸ºè¡¨è¾¾å¼ä¼ é€’æ—¶ï¼ŒèƒŒæ™¯é¢œè‰²ç”Ÿæˆæœ‰æ—¶ä¼šå¤±è´¥ã€‚
+ÒÑÐÞ¸´ - ´«µÝNULLÖµÊ±£¬ÐÎ×´ÉÏµÄÖµ²»ÔÙÏÔÊ¾Îª¡°Áã¡±
+ÒÑÐÞ¸´ - µ±ÑÕÉ«×÷Îª±í´ïÊ½´«µÝÊ±£¬±³¾°ÑÕÉ«Éú³ÉÓÐÊ±»áÊ§°Ü¡£
 
 
 
 Info for version 1.00.25 RC
 ------------------------------------------------------------------------------------------
-æ–°å±žæ€§ï¼š
-LegendPosition - æ•°å€¼ (0-10)
-0-æ— å›¾ä¾‹
-1-åž‚ç›´å·¦ä¸Šè§’
-2-åž‚ç›´å·¦ä¸‹
-3-åž‚ç›´å³ä¸Šè§’
-4-åž‚ç›´å³ä¸‹
-5-æ°´å¹³å·¦ä¸Š
-6-æ°´å¹³ä¸Šä¸­å¿ƒ
-7-æ°´å¹³å³ä¸Šè§’
-8-æ°´å¹³å·¦ä¸‹
-9-æ°´å¹³ä¸‹ä¸­å¿ƒ
-10-æ°´å¹³å³ä¸‹
+ÐÂÊôÐÔ£º
+LegendPosition - ÊýÖµ (0-10)
+0-ÎÞÍ¼Àý
+1-´¹Ö±×óÉÏ½Ç
+2-´¹Ö±×óÏÂ
+3-´¹Ö±ÓÒÉÏ½Ç
+4-´¹Ö±ÓÒÏÂ
+5-Ë®Æ½×óÉÏ
+6-Ë®Æ½ÉÏÖÐÐÄ
+7-Ë®Æ½ÓÒÉÏ½Ç
+8-Ë®Æ½×óÏÂ
+9-Ë®Æ½ÏÂÖÐÐÄ
+10-Ë®Æ½ÓÒÏÂ
 
 
 
 
 Info for version 1.00.26 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤äº†ä»¥å‰ç‰ˆæœ¬ä¸­æ–°å›¾ä¾‹ä½ç½®çš„è¾¹è·
+ÐÞ¸´ÁËÒÔÇ°°æ±¾ÖÐÐÂÍ¼ÀýÎ»ÖÃµÄ±ß¾à
 
 
 
 Info for version 1.00.27 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤äº†åˆ‡ç‰‡åˆ†ç¦»
-å¦‚æžœå½“å‰è¡¨å•æœªæ¿€æ´»ï¼Œåˆ™ä¸ä¼šæ˜¾ç¤ºä¿¡æ¯æç¤º
+ÐÞ¸´ÁËÇÐÆ¬·ÖÀë
+Èç¹ûµ±Ç°±íµ¥Î´¼¤»î£¬Ôò²»»áÏÔÊ¾ÐÅÏ¢ÌáÊ¾
 
 
 
 Info for version 1.00.28 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤åˆ»åº¦çš„è‡ªåŠ¨æ ¼å¼
+ÐÞ¸´¿Ì¶ÈµÄ×Ô¶¯¸ñÊ½
 
 
 
 Info for version 1.00.29 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤åˆ»åº¦çš„è‡ªåŠ¨æ ¼å¼
-æ–°å±žæ€§â€œScaleAutoFormatâ€ - é€»è¾‘ï¼Œè‡ªåŠ¨ç¡®å®šScaleLegend.Formatå±žæ€§
+ÐÞ¸´¿Ì¶ÈµÄ×Ô¶¯¸ñÊ½
+ÐÂÊôÐÔ¡°ScaleAutoFormat¡± - Âß¼­£¬×Ô¶¯È·¶¨ScaleLegend.FormatÊôÐÔ
 
 
 
 Info for version 1.00.30 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤ï¼šå½“å›¾è¡¨åœ¨æ¡å½¢å›¾ä¸­ä»…åŒ…å«ä¸€åˆ—æ—¶çš„é”™è¯¯
+ÐÞ¸´£ºµ±Í¼±íÔÚÌõÐÎÍ¼ÖÐ½ö°üº¬Ò»ÁÐÊ±µÄ´íÎó
 
 
 
 Info for version 1.00.31 RC
 ------------------------------------------------------------------------------------------
-å½“ç¬¬ä¸€ä¸ªåˆ‡ç‰‡è§’åº¦å¤§äºŽ450åº¦æ—¶ï¼Œä¿®å¤æœ€åŽåˆ‡ç‰‡åˆ†ç¦»æ—¶çš„é¥¼å›¾/åœ†çŽ¯åˆ‡ç‰‡æ£€æµ‹
-ä¿®å¤äº†DrawReportæ–¹æ³• - çŽ°åœ¨ä¿ç•™äº†æœ€æ–°çš„å›¾è¡¨åˆ‡ç‰‡åˆ†ç¦»ã€‚ ä¼˜åŒ–åŽé€Ÿåº¦æé«˜äº†å°†è¿‘ä¸¤å€
+µ±µÚÒ»¸öÇÐÆ¬½Ç¶È´óÓÚ450¶ÈÊ±£¬ÐÞ¸´×îºóÇÐÆ¬·ÖÀëÊ±µÄ±ýÍ¼/Ô²»·ÇÐÆ¬¼ì²â
+ÐÞ¸´ÁËDrawReport·½·¨ - ÏÖÔÚ±£ÁôÁË×îÐÂµÄÍ¼±íÇÐÆ¬·ÖÀë¡£ ÓÅ»¯ºóËÙ¶ÈÌá¸ßÁË½«½üÁ½±¶
 
 
 
 Info for version 1.00.34 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤ï¼šå½“åªæœ‰ä¸€ä¸ªåˆ‡ç‰‡å¯ç”¨æ—¶çš„é¥¼å›¾/åœ†çŽ¯å›¾
-ä¿®å¤åˆ»åº¦çš„è®¡é‡
+ÐÞ¸´£ºµ±Ö»ÓÐÒ»¸öÇÐÆ¬¿ÉÓÃÊ±µÄ±ýÍ¼/Ô²»·Í¼
+ÐÞ¸´¿Ì¶ÈµÄ¼ÆÁ¿
 
 
 
 Info for version 1.00.35 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤æŸ±å½¢å›¾çš„è´Ÿå€¼åˆ»åº¦
+ÐÞ¸´ÖùÐÎÍ¼µÄ¸ºÖµ¿Ì¶È
 
 
 
 Info for version 1.00.36 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤ - æ•£ç‚¹å›¾ã€æŠ˜çº¿å›¾å’ŒåŒºåŸŸå›¾ä¸èƒ½ç»˜åˆ¶åªæœ‰ä¸€æ¡è®°å½•çš„å›¾è¡¨
+ÐÞ¸´ - É¢µãÍ¼¡¢ÕÛÏßÍ¼ºÍÇøÓòÍ¼²»ÄÜ»æÖÆÖ»ÓÐÒ»Ìõ¼ÇÂ¼µÄÍ¼±í
 
 
 
 Info for version 1.10.00 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤ - æ¡å½¢å›¾çŽ°åœ¨å¯ä»¥æ ¹æ®éœ€è¦ä½¿ç”¨â€œMinValueâ€å±žæ€§
+ÐÞ¸´ - ÌõÐÎÍ¼ÏÖÔÚ¿ÉÒÔ¸ù¾ÝÐèÒªÊ¹ÓÃ¡°MinValue¡±ÊôÐÔ
 
 
 
 Info for version 1.10.1 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤ - â€œInScreenâ€è¡¨å•ä¸­çš„å·¥å…·æç¤ºçŽ°åœ¨æŒ‰éœ€æ˜¾ç¤ºã€‚
+ÐÞ¸´ - ¡°InScreen¡±±íµ¥ÖÐµÄ¹¤¾ßÌáÊ¾ÏÖÔÚ°´ÐèÏÔÊ¾¡£
 
 
 
 Info for version 1.10.2 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤ - by Christof Wollenhaupt - See WorkItem #20978
+ÐÞ¸´ - by Christof Wollenhaupt - See WorkItem #20978
 http://www.codeplex.com/VFPX/WorkItem/View.aspx?WorkItemId=20978#
-ä¿¡æ¯æç¤ºå¹¶æ²¡æœ‰è‡ªåŠ¨æ¶ˆå¤±
-ä¿®å¤äº†æ£€æµ‹å½“å‰ActiveFormä»¥æ˜¾ç¤ºä¿¡æ¯æç¤ºçš„é”™è¯¯
+ÐÅÏ¢ÌáÊ¾²¢Ã»ÓÐ×Ô¶¯ÏûÊ§
+ÐÞ¸´ÁË¼ì²âµ±Ç°ActiveFormÒÔÏÔÊ¾ÐÅÏ¢ÌáÊ¾µÄ´íÎó
 
 
 
 Info for version 1.10.3 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤ç»„åˆå›¾è¡¨ä¸­çš„ BUG - Bar legend was showing twice
+ÐÞ¸´×éºÏÍ¼±íÖÐµÄ BUG - Bar legend was showing twice
 
 
 
 Info for version 1.10.4 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤äº†ä¿¡æ¯æç¤ºä¸­çš„é”™è¯¯ - åœ¨æŸäº›æƒ…å†µä¸‹ï¼Œå·¥å…·æç¤ºæ ‡ç­¾å®½åº¦å§‹ç»ˆä¸ºé›¶
-é»˜è®¤æƒ…å†µä¸‹ä¸ä¼šæ˜¾ç¤ºå›¾ä¾‹ä¸­çš„ä¿¡æ¯æç¤º
+ÐÞ¸´ÁËÐÅÏ¢ÌáÊ¾ÖÐµÄ´íÎó - ÔÚÄ³Ð©Çé¿öÏÂ£¬¹¤¾ßÌáÊ¾±êÇ©¿í¶ÈÊ¼ÖÕÎªÁã
+Ä¬ÈÏÇé¿öÏÂ²»»áÏÔÊ¾Í¼ÀýÖÐµÄÐÅÏ¢ÌáÊ¾
 
 
 
 Info for version 1.10.5 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤ä¿¡æ¯æç¤ºçš„ BUG - å½“é¼ æ ‡æ‚¬åœåœ¨éšè—çš„åˆ‡ç‰‡ä¸Šæ—¶
+ÐÞ¸´ÐÅÏ¢ÌáÊ¾µÄ BUG - µ±Êó±êÐüÍ£ÔÚÒþ²ØµÄÇÐÆ¬ÉÏÊ±
 
 
 
 
 Info for version 1.10.6 RC
 ------------------------------------------------------------------------------------------
-æ–°å±žæ€§ï¼š
+ÐÂÊôÐÔ£º
 BarLegendDirection
-æ•°å€¼åž‹ã€‚åœ¨å›¾è¡¨å†…éƒ¨å›¾å½¢æ•°æ®çš„æ˜¾ç¤ºæ–¹å‘ã€‚
-	0 - æ°´å¹³ï¼ˆé»˜è®¤ï¼‰
-	1 - åž‚ç›´
+ÊýÖµÐÍ¡£ÔÚÍ¼±íÄÚ²¿Í¼ÐÎÊý¾ÝµÄÏÔÊ¾·½Ïò¡£
+	0 - Ë®Æ½£¨Ä¬ÈÏ£©
+	1 - ´¹Ö±
 
 
-LegendPosition å¢žåŠ æ–°çš„å±žæ€§å€¼
-å±žæ€§ LegendPosition
-æ•´åž‹ï¼Œå–å€¼èŒƒå›´ 0-10 ã€‚ä¾§è¾¹å›¾ä¾‹çš„ä½ç½®ã€‚
-	0-æ— å›¾ä¾‹
-	1-åž‚ç›´å·¦ä¸Šè§’
-	2-åž‚ç›´å·¦ä¸‹
-	3-åž‚ç›´å³ä¸Šè§’
-	4-åž‚ç›´å³ä¸‹
-	5-æ°´å¹³å·¦ä¸Š
-	6-æ°´å¹³ä¸Šä¸­å¿ƒ
-	7-æ°´å¹³å³ä¸Šè§’
-	8-æ°´å¹³å·¦ä¸‹
-	9-æ°´å¹³ä¸‹ä¸­å¿ƒ
-	10-æ°´å¹³å³ä¸‹
+LegendPosition Ôö¼ÓÐÂµÄÊôÐÔÖµ
+ÊôÐÔ LegendPosition
+ÕûÐÍ£¬È¡Öµ·¶Î§ 0-10 ¡£²à±ßÍ¼ÀýµÄÎ»ÖÃ¡£
+	0-ÎÞÍ¼Àý
+	1-´¹Ö±×óÉÏ½Ç
+	2-´¹Ö±×óÏÂ
+	3-´¹Ö±ÓÒÉÏ½Ç
+	4-´¹Ö±ÓÒÏÂ
+	5-Ë®Æ½×óÉÏ
+	6-Ë®Æ½ÉÏÖÐÐÄ
+	7-Ë®Æ½ÓÒÉÏ½Ç
+	8-Ë®Æ½×óÏÂ
+	9-Ë®Æ½ÏÂÖÐÐÄ
+	10-Ë®Æ½ÓÒÏÂ
 
 
 
 
 Info for version 1.10.6 RC
 ------------------------------------------------------------------------------------------
-æ–°å±žæ€§
+ÐÂÊôÐÔ
 
-Quality Compositingï¼šæŒ‡å®šåˆæˆæœŸé—´è¦ä½¿ç”¨çš„è´¨é‡çº§åˆ«ã€‚ 0=Default; 1=HighSpeed; 2=HighQuality; 3=GammaCorrected; 4=AssumeLinear
+Quality Compositing£ºÖ¸¶¨ºÏ³ÉÆÚ¼äÒªÊ¹ÓÃµÄÖÊÁ¿¼¶±ð¡£ 0=Default; 1=HighSpeed; 2=HighQuality; 3=GammaCorrected; 4=AssumeLinear
 
-QualitySmoothingï¼šæŒ‡å®šæ˜¯å¦å¯¹çº¿æ¡å’Œæ›²çº¿ä»¥åŠå¡«å……åŒºåŸŸçš„è¾¹ç¼˜åº”ç”¨å¹³æ»‘ï¼ˆæŠ—é”¯é½¿ï¼‰ã€‚0=Default; 1=HighSpeed Specifies no antialiasing; 2=HighQuality; 3=None Specifies no antialiasing; 4=AntiAlias
+QualitySmoothing£ºÖ¸¶¨ÊÇ·ñ¶ÔÏßÌõºÍÇúÏßÒÔ¼°Ìî³äÇøÓòµÄ±ßÔµÓ¦ÓÃÆ½»¬£¨¿¹¾â³Ý£©¡£0=Default; 1=HighSpeed Specifies no antialiasing; 2=HighQuality; 3=None Specifies no antialiasing; 4=AntiAlias
 
-QualityTextRenderingHintï¼šæŒ‡å®šæ–‡æœ¬å‘ˆçŽ°çš„è´¨é‡ã€‚ 0=SystemDefault; 1=SingleBitPerPixelGridFit; 2=SingleBitPerPixel; 3=AntiAliasGridFit; 4=AntiAlias; 5=ClearTypeGridFit
+QualityTextRenderingHint£ºÖ¸¶¨ÎÄ±¾³ÊÏÖµÄÖÊÁ¿¡£ 0=SystemDefault; 1=SingleBitPerPixelGridFit; 2=SingleBitPerPixel; 3=AntiAliasGridFit; 4=AntiAlias; 5=ClearTypeGridFit
 
 
-ä¿®æ­£ï¼š
-GetChartProperties  - ä¿®å¤äº†ç¼©è¿›
-åœ†æŸ±å½¢çŠ¶çš„å›¾ä¾‹æ­£ç¡®å±…ä¸­
-ä½¿ç”¨æ‰€æœ‰æ–°å±žæ€§æ”¹è¿›äº†ç¤ºä¾‹ - è¯·å‚é˜… CHartsSample_New.scx ä¸­æ–°çš„â€œè´¨é‡â€é€‰é¡¹å¡
-ç»„åˆå›¾è¡¨æŽ¥å— MinValue
+ÐÞÕý£º
+GetChartProperties  - ÐÞ¸´ÁËËõ½ø
+Ô²ÖùÐÎ×´µÄÍ¼ÀýÕýÈ·¾ÓÖÐ
+Ê¹ÓÃËùÓÐÐÂÊôÐÔ¸Ä½øÁËÊ¾Àý - Çë²ÎÔÄ CHartsSample_New.scx ÖÐÐÂµÄ¡°ÖÊÁ¿¡±Ñ¡Ïî¿¨
+×éºÏÍ¼±í½ÓÊÜ MinValue
 
 
 
 Info for version 1.10.8 RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤å›¾å½¢æ•°æ®çš„å¯¹é½æ–¹å¼
-â€œChartsCountâ€å±žæ€§çŽ°åœ¨å…è®¸åœ¨ç±»å®žä¾‹åŒ–åŽæ›´æ”¹ - ç”±Matt Weinberderæä¾›
+ÐÞ¸´Í¼ÐÎÊý¾ÝµÄ¶ÔÆë·½Ê½
+¡°ChartsCount¡±ÊôÐÔÏÖÔÚÔÊÐíÔÚÀàÊµÀý»¯ºó¸ü¸Ä - ÓÉMatt WeinberderÌá¹©
 
-è§¦å‘Clickå’ŒDblClickäº‹ä»¶æ—¶ï¼Œå°†å¡«å……4ä¸ªæ–°å±žæ€§ï¼Œä»¥ä¾¿é€šçŸ¥å½“å‰å›¾è¡¨å’Œå•å‡»çš„å½¢çŠ¶ï¼š
-Â 
-CurrValue  - å½¢çŠ¶çš„å€¼
-CurrLegend  - ç›¸å…³çš„å›¾ä¾‹
-CurrIndex  - è¦åœ¨aCoordï¼ˆï¼‰ç´¢å¼•ä¸­ä½¿ç”¨çš„ç´¢å¼•å·ï¼Œä»¥èŽ·å–æœ‰å…³å½“å‰å½¢çŠ¶çš„æ›´å¤šä¿¡æ¯
-CurrObjType  - å¯¹è±¡çš„ç±»åž‹--Pieï¼ŒRectæˆ–Legend
-Â 
-ä½¿ç”¨ç¤ºä¾‹ï¼Œæ‚¨å¯ä»¥åœ¨DblClickäº‹ä»¶ä¸­æ”¾å…¥çš„ä»£ç ï¼š
+´¥·¢ClickºÍDblClickÊÂ¼þÊ±£¬½«Ìî³ä4¸öÐÂÊôÐÔ£¬ÒÔ±ãÍ¨Öªµ±Ç°Í¼±íºÍµ¥»÷µÄÐÎ×´£º
+?
+CurrValue  - ÐÎ×´µÄÖµ
+CurrLegend  - Ïà¹ØµÄÍ¼Àý
+CurrIndex  - ÒªÔÚaCoord£¨£©Ë÷ÒýÖÐÊ¹ÓÃµÄË÷ÒýºÅ£¬ÒÔ»ñÈ¡ÓÐ¹Øµ±Ç°ÐÎ×´µÄ¸ü¶àÐÅÏ¢
+CurrObjType  - ¶ÔÏóµÄÀàÐÍ--Pie£¬Rect»òLegend
+?
+Ê¹ÓÃÊ¾Àý£¬Äú¿ÉÒÔÔÚDblClickÊÂ¼þÖÐ·ÅÈëµÄ´úÂë£º
  
  
 LOCAL lnValue, lcLegend, lnCoordIndex, lcObjType
@@ -432,255 +432,255 @@ RETURN
  
 Info for version 1.10.9 RC
 ------------------------------------------------------------------------------------------
-æ–°å±žæ€§ï¼š
-MultiChartMargin - ç¡®å®šå›¾è¡¨çš„å¼€å¤´å’Œç»“å°¾æ˜¯å¦æœ‰è¾¹è·ã€‚å½“å›¾è¡¨ä¸ä¸ºæ¡å½¢å›¾æ—¶ä½¿ç”¨ï¼Œä»¥èŽ·å¾—æ›´å¥½çš„æ•ˆæžœã€‚
+ÐÂÊôÐÔ£º
+MultiChartMargin - È·¶¨Í¼±íµÄ¿ªÍ·ºÍ½áÎ²ÊÇ·ñÓÐ±ß¾à¡£µ±Í¼±í²»ÎªÌõÐÎÍ¼Ê±Ê¹ÓÃ£¬ÒÔ»ñµÃ¸üºÃµÄÐ§¹û¡£
 
-æ–°åŠŸèƒ½ï¼š
-æ‚¨å¯ä»¥å°†å›¾åƒæ–‡ä»¶ä¼ é€’åˆ°Fields(n).Shapeå±žæ€§ï¼Œä»¥ä¾¿äºŽåœ¨æ•£ç‚¹å›¾ä¸­è¿›è¡Œç»˜åˆ¶
+ÐÂ¹¦ÄÜ£º
+Äú¿ÉÒÔ½«Í¼ÏñÎÄ¼þ´«µÝµ½Fields(n).ShapeÊôÐÔ£¬ÒÔ±ãÓÚÔÚÉ¢µãÍ¼ÖÐ½øÐÐ»æÖÆ
 
-æ–°ç¤ºä¾‹ï¼š
-ChartsSample_MultiStacked - æ˜¾ç¤ºåˆ›å»ºå¤šä¸ªå †å æ¡å½¢çš„å˜é€šæ–¹æ³•
+ÐÂÊ¾Àý£º
+ChartsSample_MultiStacked - ÏÔÊ¾´´½¨¶à¸ö¶ÑµþÌõÐÎµÄ±äÍ¨·½·¨
 
-ä¿®æ­£ï¼š
-è®¸å¤šæ ·æœ¬ä¸­çš„å„ç§è°ƒæ•´
-ä¿®å¤äº†æ•£ç‚¹å›¾çš„å½¢çŠ¶ä½ç½®
+ÐÞÕý£º
+Ðí¶àÑù±¾ÖÐµÄ¸÷ÖÖµ÷Õû
+ÐÞ¸´ÁËÉ¢µãÍ¼µÄÐÎ×´Î»ÖÃ
 
-æ¢å¤ä¸ŽALPHAç‰ˆæœ¬çš„å®Œå…¨å‘åŽå…¼å®¹æ€§ã€‚ æ‰€æœ‰æ—§ä»£ç çŽ°åœ¨éƒ½åº”è¯¥æ­£å¸¸å·¥ä½œã€‚
+»Ö¸´ÓëALPHA°æ±¾µÄÍêÈ«Ïòºó¼æÈÝÐÔ¡£ ËùÓÐ¾É´úÂëÏÖÔÚ¶¼Ó¦¸ÃÕý³£¹¤×÷¡£
 
 
 
 Info for version 1.15 RC
 ------------------------------------------------------------------------------------------
-æ–°å±žæ€§ï¼š
+ÐÂÊôÐÔ£º
 
-CurrRecNo, CurrColumn - ä¸ºäº†æä¾›è¯†åˆ«è¢«ç‚¹å‡»çš„å½¢çŠ¶çš„å®Œå…¨å¯èƒ½æ€§
-æ‰€æœ‰ä¸Žé¼ æ ‡ç›¸å…³çš„äº‹ä»¶éƒ½å·²æ›´æ–°ï¼Œä»¥ä¾¿å¡«å……è¿™äº›å±žæ€§ã€‚
-ç¤ºä¾‹æ›´æ–°
+CurrRecNo, CurrColumn - ÎªÁËÌá¹©Ê¶±ð±»µã»÷µÄÐÎ×´µÄÍêÈ«¿ÉÄÜÐÔ
+ËùÓÐÓëÊó±êÏà¹ØµÄÊÂ¼þ¶¼ÒÑ¸üÐÂ£¬ÒÔ±ãÌî³äÕâÐ©ÊôÐÔ¡£
+Ê¾Àý¸üÐÂ
 
 
 
 Info for version 1.15.3 RC
 ------------------------------------------------------------------------------------------
-æ–°å±žæ€§ï¼š
-Rotation - æ•°å€¼åž‹ã€‚ç¡®å®šè¦åœ¨å½“å‰å›¾ä¾‹å¯¹è±¡ä¸­åº”ç”¨çš„æ—‹è½¬è§’åº¦ï¼ˆä»¥åº¦ä¸ºå•ä½ï¼‰
-BarLegendDirection - æ–°çš„å±žæ€§å€¼ - 2 ç»˜åˆ¶çºµå‘æ–‡æœ¬çš„æ–¹å‘ä¸ºä»Žä¸‹å¾€ä¸Š
+ÐÂÊôÐÔ£º
+Rotation - ÊýÖµÐÍ¡£È·¶¨ÒªÔÚµ±Ç°Í¼Àý¶ÔÏóÖÐÓ¦ÓÃµÄÐý×ª½Ç¶È£¨ÒÔ¶ÈÎªµ¥Î»£©
+BarLegendDirection - ÐÂµÄÊôÐÔÖµ - 2 »æÖÆ×ÝÏòÎÄ±¾µÄ·½ÏòÎª´ÓÏÂÍùÉÏ
 
-é’ˆå¯¹è‡ªå®šä¹‰è„šæœ¬ä¼˜åŒ–äº†Memberdataç”¨æ³• - ä¸ºmemberdataç•™å‡ºäº†ä¸€äº›ç©ºé—²ç©ºé—´ç”¨äºŽå…¶ä»–è‡ªå®šä¹‰ï¼Œä¾‹å¦‚è®¾ç½®ä¸€äº›æ”¶è—çš„å±žæ€§
+Õë¶Ô×Ô¶¨Òå½Å±¾ÓÅ»¯ÁËMemberdataÓÃ·¨ - ÎªmemberdataÁô³öÁËÒ»Ð©¿ÕÏÐ¿Õ¼äÓÃÓÚÆäËû×Ô¶¨Òå£¬ÀýÈçÉèÖÃÒ»Ð©ÊÕ²ØµÄÊôÐÔ
 
-ä¿®å¤
-ä¾§è¾¹å›¾ä¾‹çš„å¯¹é½
+ÐÞ¸´
+²à±ßÍ¼ÀýµÄ¶ÔÆë
 
 
 
 Info for version 1.16 RC
 ------------------------------------------------------------------------------------------
-æ–°å±žæ€§ï¼š
+ÐÂÊôÐÔ£º
 
 LineCapsShape
 
 PieDetachSliceOnLegendClick
 
 PieForceCircle
-é€»è¾‘åž‹ã€‚å¼ºåˆ¶é¥¼å›¾æˆ–åœ†çŽ¯å›¾å½¢çŠ¶ä¸ºåœ†å½¢ï¼ˆå…·æœ‰ç›¸åŒçš„å®½åº¦å’Œé«˜åº¦ï¼‰ã€‚
+Âß¼­ÐÍ¡£Ç¿ÖÆ±ýÍ¼»òÔ²»·Í¼ÐÎ×´ÎªÔ²ÐÎ£¨¾ßÓÐÏàÍ¬µÄ¿í¶ÈºÍ¸ß¶È£©¡£
 
-æ–°ç¤ºä¾‹ GaugeSample
+ÐÂÊ¾Àý GaugeSample
 
 
 
 Info for version 1.17 RC
 ------------------------------------------------------------------------------------------
-æ”¹è¿›ä»ªè¡¨ç›˜ç¤ºä¾‹
-å±žæ€§ ColorType å¢žåŠ æ–°çš„é¢„å®šä¹‰å€¼ï¼Œå¯¹åº”å€¼ä¸º 4-26
+¸Ä½øÒÇ±íÅÌÊ¾Àý
+ÊôÐÔ ColorType Ôö¼ÓÐÂµÄÔ¤¶¨ÒåÖµ£¬¶ÔÓ¦ÖµÎª 4-26
 
 
 
 Info for version 1.17b RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤äº†ä¸ä½¿ç”¨é¡¶éƒ¨æ ‡ç­¾æ—¶ Pageframe é”™è¯¯çš„é¼ æ ‡å®šä½
-å…è®¸æ•£ç‚¹å›¾å’ŒæŠ˜çº¿å›¾ä¸­æ˜¾ç¤ºå•åˆ—æ•°æ®ï¼ˆå½“ depth =  0 æ—¶ï¼‰
-ä¿®å¤äº†ä¾§è¾¹å›¾ä¾‹å·¥å…·æç¤ºé”™è¯¯åœ°å‡ºçŽ°åœ¨æŠ˜çº¿å›¾ä¸Š
+ÐÞ¸´ÁË²»Ê¹ÓÃ¶¥²¿±êÇ©Ê± Pageframe ´íÎóµÄÊó±ê¶¨Î»
+ÔÊÐíÉ¢µãÍ¼ºÍÕÛÏßÍ¼ÖÐÏÔÊ¾µ¥ÁÐÊý¾Ý£¨µ± depth =  0 Ê±£©
+ÐÞ¸´ÁË²à±ßÍ¼Àý¹¤¾ßÌáÊ¾´íÎóµØ³öÏÖÔÚÕÛÏßÍ¼ÉÏ
 
 
 
 Info for version 1.17c RC
 ------------------------------------------------------------------------------------------
-ä¿®æ”¹äº† SurroundColors èµ‹å€¼ä»¥ä½¿ç”¨å¯¹GdiPlus.dllçš„ç›´æŽ¥APIè°ƒç”¨ï¼Œä»¥ç¡®ä¿ä¸Žæ‰€æœ‰GdiPlusXç‰ˆæœ¬å®Œå…¨å…¼å®¹
+ÐÞ¸ÄÁË SurroundColors ¸³ÖµÒÔÊ¹ÓÃ¶ÔGdiPlus.dllµÄÖ±½ÓAPIµ÷ÓÃ£¬ÒÔÈ·±£ÓëËùÓÐGdiPlusX°æ±¾ÍêÈ«¼æÈÝ
 
 
 
 Info for version 1.17e RC
 ------------------------------------------------------------------------------------------
-å½“ FoxCharts åœ¨è¾“å‡ºæ—¶æ—¶ä¿®å¤ç›¸å¯¹ä½ç½®è®¡ç®—ã€‚
-ç¤ºä¾‹ä¸­æœ‰è®¸å¤šå°è°ƒæ•´
-ä¿®å¤ç¤ºä¾‹ä¸­çš„è·¯å¾„é—®é¢˜
-ä¿®å¤ä¿¡æ¯æç¤ºå®½åº¦æœªèŽ·å¾—æ­£ç¡®çš„å¤§å°
-ä¿®å¤äº†ä¿¡æ¯æç¤ºçš„å½¢çŠ¶æ˜ å°„
+µ± FoxCharts ÔÚÊä³öÊ±Ê±ÐÞ¸´Ïà¶ÔÎ»ÖÃ¼ÆËã¡£
+Ê¾ÀýÖÐÓÐÐí¶àÐ¡µ÷Õû
+ÐÞ¸´Ê¾ÀýÖÐµÄÂ·¾¶ÎÊÌâ
+ÐÞ¸´ÐÅÏ¢ÌáÊ¾¿í¶ÈÎ´»ñµÃÕýÈ·µÄ´óÐ¡
+ÐÞ¸´ÁËÐÅÏ¢ÌáÊ¾µÄÐÎ×´Ó³Éä
 
 
 Info for version 1.18 RC
 ------------------------------------------------------------------------------------------
-æ–°å±žæ€§ï¼š
+ÐÂÊôÐÔ£º
 PieLegendDistance
-æ•°å€¼åž‹ã€‚å–å€¼èŒƒå›´ 0.01-2 ã€‚å¯¹äºŽé¥¼å›¾å’Œåœ†çŽ¯å›¾ï¼Œä»Žé¥¼å›¾æˆ–åœ†çŽ¯çš„ä¸­å¿ƒå¼€å§‹çš„ç™¾åˆ†æ¯”è·ç¦»ç»˜åˆ¶å›¾è¡¨æ•°æ®ã€‚
+ÊýÖµÐÍ¡£È¡Öµ·¶Î§ 0.01-2 ¡£¶ÔÓÚ±ýÍ¼ºÍÔ²»·Í¼£¬´Ó±ýÍ¼»òÔ²»·µÄÖÐÐÄ¿ªÊ¼µÄ°Ù·Ö±È¾àÀë»æÖÆÍ¼±íÊý¾Ý¡£
 
 ShowAxis2Tics
-é€»è¾‘åž‹ã€‚å¯¹äºŽæ¡å½¢å›¾ï¼ŒæŸ±å½¢å›¾ï¼ŒæŠ˜çº¿å›¾ï¼Œé¢ç§¯å›¾æˆ–æ•£ç‚¹å›¾ï¼Œç¡®å®š Xè½´ï¼ˆaxis2ï¼‰æ˜¯å¦åœ¨æ¯ä¸ªåˆ»åº¦ä¸Šæ˜¾ç¤ºåˆ»åº¦æ ‡è®°ã€‚
+Âß¼­ÐÍ¡£¶ÔÓÚÌõÐÎÍ¼£¬ÖùÐÎÍ¼£¬ÕÛÏßÍ¼£¬Ãæ»ýÍ¼»òÉ¢µãÍ¼£¬È·¶¨ XÖá£¨axis2£©ÊÇ·ñÔÚÃ¿¸ö¿Ì¶ÈÉÏÏÔÊ¾¿Ì¶È±ê¼Ç¡£
 
 TicLength
-æ•°å€¼åž‹ã€‚å¯¹äºŽæ¡å½¢å›¾ï¼ŒæŸ±å½¢å›¾ï¼ŒæŠ˜çº¿å›¾ï¼Œé¢ç§¯å›¾æˆ–æ•£ç‚¹å›¾ï¼Œç¡®å®šè½´çº¿ä¸Šåˆ»åº¦æ ‡è®°çš„åƒç´ é•¿åº¦ã€‚
+ÊýÖµÐÍ¡£¶ÔÓÚÌõÐÎÍ¼£¬ÖùÐÎÍ¼£¬ÕÛÏßÍ¼£¬Ãæ»ýÍ¼»òÉ¢µãÍ¼£¬È·¶¨ÖáÏßÉÏ¿Ì¶È±ê¼ÇµÄÏñËØ³¤¶È¡£
 
-ShapeLegendExpressionï¼šå­—ç¬¦åž‹ï¼Œ
-æŒ‡å®šæ›¿æ¢é»˜è®¤å›¾å½¢æ•°æ®æ–‡æœ¬çš„è¡¨è¾¾å¼ã€‚
-åœ¨é‚£é‡Œï¼Œæ‚¨å°†èƒ½å¤Ÿæ”¾ç½®ä»»ä½•è¡¨è¾¾å¼æ¥å®Œå…¨è‡ªå®šä¹‰è¦åœ¨å›¾è¡¨å½¢çŠ¶å†…â€œç»˜åˆ¶â€çš„æ–‡æœ¬ã€‚
-ä½¿ç”¨â€œCurrâ€å±žæ€§ä»¥èŽ·å–æœ‰å…³å½“å‰å½¢çŠ¶çš„è¯¦ç»†ä¿¡æ¯å¹¶æž„å»ºè¡¨è¾¾å¼ã€‚
+ShapeLegendExpression£º×Ö·ûÐÍ£¬
+Ö¸¶¨Ìæ»»Ä¬ÈÏÍ¼ÐÎÊý¾ÝÎÄ±¾µÄ±í´ïÊ½¡£
+ÔÚÄÇÀï£¬Äú½«ÄÜ¹»·ÅÖÃÈÎºÎ±í´ïÊ½À´ÍêÈ«×Ô¶¨ÒåÒªÔÚÍ¼±íÐÎ×´ÄÚ¡°»æÖÆ¡±µÄÎÄ±¾¡£
+Ê¹ÓÃ¡°Curr¡±ÊôÐÔÒÔ»ñÈ¡ÓÐ¹Øµ±Ç°ÐÎ×´µÄÏêÏ¸ÐÅÏ¢²¢¹¹½¨±í´ïÊ½¡£
 
-   ç¤ºä¾‹ï¼š 
+   Ê¾Àý£º 
    transform(This.CurrValue) + CHR(13) + CHR(10) + This.CurrLegend
 
-   æˆ–
+   »ò
 
    Thisform.CustomLegend()
 
-   å‚çœ‹ï¼š
+   ²Î¿´£º
    CurrValue, CurrLegend, CurrIndex, CurrObjType, CurrRecNo, CurrColumn
 
 
-æ”¹å˜äº†FoxChartsçš„åˆå§‹åŒ–ï¼ŒçŽ°åœ¨ç”¨æˆ·å¯ä»¥å°†ä»£ç å®‰å…¨åœ°æ”¾åœ¨ FoxCharts çš„ INIT() äº‹ä»¶ä¸­ï¼Œå¦‚æžœä»–ä»¬æ„¿æ„çš„è¯ã€‚
+¸Ä±äÁËFoxChartsµÄ³õÊ¼»¯£¬ÏÖÔÚÓÃ»§¿ÉÒÔ½«´úÂë°²È«µØ·ÅÔÚ FoxCharts µÄ INIT() ÊÂ¼þÖÐ£¬Èç¹ûËûÃÇÔ¸ÒâµÄ»°¡£
 
-ç»è¿‡è°ƒæ•´çš„å±žæ€§æè¿°å¯ä»¥ä»Žå¾ˆé…·çš„PEMç¼–è¾‘å™¨ä¸­èŽ·ç›Š
+¾­¹ýµ÷ÕûµÄÊôÐÔÃèÊö¿ÉÒÔ´ÓºÜ¿áµÄPEM±à¼­Æ÷ÖÐ»ñÒæ
 
-ä¿®å¤å›¾å½¢æ˜ å°„ - æ„Ÿè°¢A. Roy CHowdhurry
-ä¿®å¤äº†BarSpaceBetween  - å½“å€¼å¤ªå¤§æ—¶å¯¼è‡´ä¸€äº›è®¡ç®—é”™è¯¯
+ÐÞ¸´Í¼ÐÎÓ³Éä - ¸ÐÐ»A. Roy CHowdhurry
+ÐÞ¸´ÁËBarSpaceBetween  - µ±ÖµÌ«´óÊ±µ¼ÖÂÒ»Ð©¼ÆËã´íÎó
 
-åˆ é™¤äº†_Memberdataè„šæœ¬
-è°ƒæ•´å±žæ€§æè¿°ä»¥ä½¿ç”¨æ–°çš„PEMç¼–è¾‘å™¨è„šæœ¬æ¥èŽ·å–é¢œè‰²å’Œæžšä¸¾å±žæ€§å€¼ã€‚
+É¾³ýÁË_Memberdata½Å±¾
+µ÷ÕûÊôÐÔÃèÊöÒÔÊ¹ÓÃÐÂµÄPEM±à¼­Æ÷½Å±¾À´»ñÈ¡ÑÕÉ«ºÍÃ¶¾ÙÊôÐÔÖµ¡£
 
 
 Info for version 1.19 RC
 ------------------------------------------------------------------------------------------
 
-1 - ç»“æž„ä¿®æ”¹
-åˆ é™¤äº†ç±»FoxCharts_Base  - ä¸å†éœ€è¦ä½¿ç”¨å•ç‹¬çš„ç±»æ¥å®žçŽ°
-ä½¿ç”¨æ›´å¤š_Memberdadaï¼Œå› ä¸ºæ–°çš„PEM Editor 4ä¼˜åŒ–äº†FoxCHartsçš„Memberdataä½¿ç”¨ä¸åˆ°åŽŸå§‹é•¿åº¦çš„ä¸€åŠ
+1 - ½á¹¹ÐÞ¸Ä
+É¾³ýÁËÀàFoxCharts_Base  - ²»ÔÙÐèÒªÊ¹ÓÃµ¥¶ÀµÄÀàÀ´ÊµÏÖ
+Ê¹ÓÃ¸ü¶à_Memberdada£¬ÒòÎªÐÂµÄPEM Editor 4ÓÅ»¯ÁËFoxCHartsµÄMemberdataÊ¹ÓÃ²»µ½Ô­Ê¼³¤¶ÈµÄÒ»°ë
 
-2 - ä¿®å¤
-ä¿®å¤â€œMouseLeave()â€äº‹ä»¶åœ¨ ChangeColorOnMouse ä¸º.T.æ—¶é”™è¯¯åœ°è§¦å‘ã€‚
-ä¿®å¤ Fields(n).ShowValuesOnShape åœ¨å±žæ€§â€œOldStylePopertiesâ€ä¸º.T.æ—¶æœªæŒ‰é¢„æœŸå·¥ä½œã€‚
+2 - ÐÞ¸´
+ÐÞ¸´¡°MouseLeave()¡±ÊÂ¼þÔÚ ChangeColorOnMouse Îª.T.Ê±´íÎóµØ´¥·¢¡£
+ÐÞ¸´ Fields(n).ShowValuesOnShape ÔÚÊôÐÔ¡°OldStylePoperties¡±Îª.T.Ê±Î´°´Ô¤ÆÚ¹¤×÷¡£
 http://vfpx.codeplex.com/Thread/View.aspx?ThreadId=60082
-ä¿®å¤APIè°ƒç”¨å£°æ˜Žï¼Œä½¿ç”¨GdiPlusXåŽŸå§‹ALIASä½œä¸ºGDI +å‡½æ•°ï¼šGdipSetPathGradientSurroundColorsWithCount å’Œ xfcGdipSetPathGradientSurroundColorsWithCount
-è°ƒæ•´ä»¥é¿å…åœ¨SP2ä¹‹å‰çš„VFP9ä¸­ä¸ŽPictureValä¸å…¼å®¹çš„Windows7é”™è¯¯ã€‚ åœ¨è¿™ç§æƒ…å†µä¸‹ï¼Œæ¸²æŸ“å°†è¢«å¼ºåˆ¶åˆ°ç£ç›˜ï¼ˆä½¿ç”¨RenderMode = 0ï¼‰
+ÐÞ¸´APIµ÷ÓÃÉùÃ÷£¬Ê¹ÓÃGdiPlusXÔ­Ê¼ALIAS×÷ÎªGDI +º¯Êý£ºGdipSetPathGradientSurroundColorsWithCount ºÍ xfcGdipSetPathGradientSurroundColorsWithCount
+µ÷ÕûÒÔ±ÜÃâÔÚSP2Ö®Ç°µÄVFP9ÖÐÓëPictureVal²»¼æÈÝµÄWindows7´íÎó¡£ ÔÚÕâÖÖÇé¿öÏÂ£¬äÖÈ¾½«±»Ç¿ÖÆµ½´ÅÅÌ£¨Ê¹ÓÃRenderMode = 0£©
 
-3 - å±žæ€§æè¿°å’Œ PEM Editor 4
-åœ¨å±žæ€§ä¸­æ·»åŠ äº†æ–°çš„DOPE
-æ‰€æœ‰çš„å±žæ€§æè¿°éƒ½ç»è¿‡äº†ä¿®æ”¹ï¼Œä»ŽçŽ°åœ¨å¼€å§‹ï¼ŒPEM Editor 4çš„ä½¿ç”¨å¾—åˆ°äº†å¼ºçƒˆè€Œçƒ­çƒˆçš„æŽ¨èï¼Œä»¥ä¾¿ä¸ºFoxChartsæä¾›æœ€ä½³çš„ç”¨æˆ·ä½“éªŒï¼Œè®©å¼€å‘äººå‘˜èƒ½å¤Ÿæ›´å¥½åœ°å¯è§†åŒ–æ¯ä¸ªå±žæ€§çš„åŠŸèƒ½ï¼Œä»¥åŠ æ¯ä¸ªå±žæ€§éƒ½æä¾›å¯èƒ½çš„ä»·å€¼ã€‚
+3 - ÊôÐÔÃèÊöºÍ PEM Editor 4
+ÔÚÊôÐÔÖÐÌí¼ÓÁËÐÂµÄDOPE
+ËùÓÐµÄÊôÐÔÃèÊö¶¼¾­¹ýÁËÐÞ¸Ä£¬´ÓÏÖÔÚ¿ªÊ¼£¬PEM Editor 4µÄÊ¹ÓÃµÃµ½ÁËÇ¿ÁÒ¶øÈÈÁÒµÄÍÆ¼ö£¬ÒÔ±ãÎªFoxChartsÌá¹©×î¼ÑµÄÓÃ»§ÌåÑé£¬ÈÃ¿ª·¢ÈËÔ±ÄÜ¹»¸üºÃµØ¿ÉÊÓ»¯Ã¿¸öÊôÐÔµÄ¹¦ÄÜ£¬ÒÔ¼° Ã¿¸öÊôÐÔ¶¼Ìá¹©¿ÉÄÜµÄ¼ÛÖµ¡£
 
-4 - èŽ·å–å›¾è¡¨å±žæ€§å¢žå¼ºåŠŸèƒ½
-Jim Nelsonä¹Ÿè°ƒæ•´äº†ä¸€äº›æ–¹æ³•ï¼Œä»¥ä¾¿ä¸ºä¿å­˜å±žæ€§æä¾›æ–°çš„å¯èƒ½æ€§ï¼Œå¹¶ä¿®å¤äº†åˆ»åº¦è®¡ç®—ã€‚
-GetChartProperties çŽ°åœ¨é‡‡ç”¨å¦ä¸€ä¸ªå‚æ•°æ¥æŒ‡ç¤ºæ˜¯å¦åº”åŒ…å«å±žæ€§æè¿°ã€‚ ï¼ˆè¿™ä»…é€‚ç”¨äºŽIDEå†…éƒ¨ï¼Œè€Œä¸é€‚ç”¨äºŽAPPæˆ–EXEï¼‰ã€‚ åœ¨æˆ‘çš„pageframeä¸­ï¼Œæˆ‘åœ¨â€œå±žæ€§â€æ ‡ç­¾ä¸Šæ·»åŠ äº†ä¸€ä¸ªå¤é€‰æ¡†ã€‚
-SaveChartProperties çŽ°åœ¨é‡‡ç”¨ä¸€ä¸ªå‚æ•°ï¼Œå…è®¸æ‚¨åœ¨å·²ä¿å­˜çš„æƒ…å†µä¸‹å®Œå…¨è·³è¿‡ä¿å­˜ã€‚
+4 - »ñÈ¡Í¼±íÊôÐÔÔöÇ¿¹¦ÄÜ
+Jim NelsonÒ²µ÷ÕûÁËÒ»Ð©·½·¨£¬ÒÔ±ãÎª±£´æÊôÐÔÌá¹©ÐÂµÄ¿ÉÄÜÐÔ£¬²¢ÐÞ¸´ÁË¿Ì¶È¼ÆËã¡£
+GetChartProperties ÏÖÔÚ²ÉÓÃÁíÒ»¸ö²ÎÊýÀ´Ö¸Ê¾ÊÇ·ñÓ¦°üº¬ÊôÐÔÃèÊö¡£ £¨Õâ½öÊÊÓÃÓÚIDEÄÚ²¿£¬¶ø²»ÊÊÓÃÓÚAPP»òEXE£©¡£ ÔÚÎÒµÄpageframeÖÐ£¬ÎÒÔÚ¡°ÊôÐÔ¡±±êÇ©ÉÏÌí¼ÓÁËÒ»¸ö¸´Ñ¡¿ò¡£
+SaveChartProperties ÏÖÔÚ²ÉÓÃÒ»¸ö²ÎÊý£¬ÔÊÐíÄúÔÚÒÑ±£´æµÄÇé¿öÏÂÍêÈ«Ìø¹ý±£´æ¡£
 
-5 - åˆ»åº¦è®¡ç®—è°ƒæ•´
-ä¸ºäº†è®¡ç®—æ¯”ä¾‹å€¼ï¼Œæ–¹æ³•_CalculateScaleæ˜¯å›ºå®šçš„ã€‚ å®ƒçº æ­£äº†é‡åˆ°çš„ä¸¤ä¸ªé—®é¢˜
-è¿™äº›é—®é¢˜ä¸ŽæŸäº›æ¯”ä¾‹è®¾ç½®ä¸ºå¥‡æ•°çš„æƒ…å†µæœ‰å…³ï¼Œè€Œä¸”åœ¨å°†æœ€å°å€¼è®¾ç½®ä¸ºé›¶ä»¥å¤–çš„é—®é¢˜æ—¶ä¹Ÿå­˜åœ¨é—®é¢˜ã€‚
+5 - ¿Ì¶È¼ÆËãµ÷Õû
+ÎªÁË¼ÆËã±ÈÀýÖµ£¬·½·¨_CalculateScaleÊÇ¹Ì¶¨µÄ¡£ Ëü¾ÀÕýÁËÓöµ½µÄÁ½¸öÎÊÌâ
+ÕâÐ©ÎÊÌâÓëÄ³Ð©±ÈÀýÉèÖÃÎªÆæÊýµÄÇé¿öÓÐ¹Ø£¬¶øÇÒÔÚ½«×îÐ¡ÖµÉèÖÃÎªÁãÒÔÍâµÄÎÊÌâÊ±Ò²´æÔÚÎÊÌâ¡£
 
 6 - Tooltips
-ä¿¡æ¯æç¤ºå°†è€ƒè™‘å…¶çˆ¶å¯¹è±¡çš„è®¾ç½®ï¼Œå…è®¸åœ¨å½“å‰è¡¨å•ä¸­æœ‰å¤šä¸ªFoxCHartså¯¹è±¡æ—¶å…·æœ‰ä¸åŒçš„ä¿¡æ¯æç¤ºæ ¼å¼ã€‚
-å³ä½¿è¡¨å•æ²¡æœ‰ç„¦ç‚¹ï¼Œä¹Ÿä¼šæ˜¾ç¤ºä¿¡æ¯æç¤º
+ÐÅÏ¢ÌáÊ¾½«¿¼ÂÇÆä¸¸¶ÔÏóµÄÉèÖÃ£¬ÔÊÐíÔÚµ±Ç°±íµ¥ÖÐÓÐ¶à¸öFoxCHarts¶ÔÏóÊ±¾ßÓÐ²»Í¬µÄÐÅÏ¢ÌáÊ¾¸ñÊ½¡£
+¼´Ê¹±íµ¥Ã»ÓÐ½¹µã£¬Ò²»áÏÔÊ¾ÐÅÏ¢ÌáÊ¾
 
-7 -ç¤ºä¾‹
-è°ƒæ•´ "ChartsSample_Builder"
-- Send2MSWord - ä¿®å¤ä»¥åœ¨.DOCä¸­ç»˜åˆ¶å›¾è¡¨å›¾åƒä¹‹å‰æ£€æŸ¥å‰ªè´´æ¿æ˜¯å¦ä¸ºç©º (by Koen Piller)
- - è°ƒæ•´æ•°æ® Grid è¡Œä¸º; Grid å°†æ ¹æ®å½“å‰çš„å›¾è¡¨è§„æ ¼è°ƒæ•´å…¶å¤§å°ã€‚
- - ä¿®æ­£äº†èƒŒæ™¯æ¸å˜è¡Œä¸º; çŽ°åœ¨ä¿å­˜èƒŒæ™¯çš„åŽŸå§‹è¾…åŠ©é¢œè‰²ï¼Œå¹¶æ¢å¤ä¸ºåŽŸå§‹æ¸²æŸ“æ¸å˜çº§åˆ«
+7 -Ê¾Àý
+µ÷Õû "ChartsSample_Builder"
+- Send2MSWord - ÐÞ¸´ÒÔÔÚ.DOCÖÐ»æÖÆÍ¼±íÍ¼ÏñÖ®Ç°¼ì²é¼ôÌù°åÊÇ·ñÎª¿Õ (by Koen Piller)
+ - µ÷ÕûÊý¾Ý Grid ÐÐÎª; Grid ½«¸ù¾Ýµ±Ç°µÄÍ¼±í¹æ¸ñµ÷ÕûÆä´óÐ¡¡£
+ - ÐÞÕýÁË±³¾°½¥±äÐÐÎª; ÏÖÔÚ±£´æ±³¾°µÄÔ­Ê¼¸¨ÖúÑÕÉ«£¬²¢»Ö¸´ÎªÔ­Ê¼äÖÈ¾½¥±ä¼¶±ð
 
 
 
 Info for version 1.19a RC
 ------------------------------------------------------------------------------------------
 
-ä¿®æ­£ï¼š
- - ä½¿ç”¨ DrawReport() æ—¶ï¼Œå›¾å½¢æ•°æ®æ— æ³•æ­£ç¡®æ˜¾ç¤º
+ÐÞÕý£º
+ - Ê¹ÓÃ DrawReport() Ê±£¬Í¼ÐÎÊý¾ÝÎÞ·¨ÕýÈ·ÏÔÊ¾
 http://vfpx.codeplex.com/Thread/View.aspx?ThreadId=62393
-- åœ¨ç»„åˆå›¾æ¨¡å¼ä¸‹ï¼Œå›¾å½¢æ•°æ®æ— æ³•æ­£ç¡®æ˜¾ç¤ºåœ¨æ¡å½¢å›¾ä¸Š (KH)
-- ä¿®å¤äº†ChartsSample_Builder DoughnutRatioå¾®è°ƒè®¾ç½®è°ƒæ•´ (KP)
+- ÔÚ×éºÏÍ¼Ä£Ê½ÏÂ£¬Í¼ÐÎÊý¾ÝÎÞ·¨ÕýÈ·ÏÔÊ¾ÔÚÌõÐÎÍ¼ÉÏ (KH)
+- ÐÞ¸´ÁËChartsSample_Builder DoughnutRatioÎ¢µ÷ÉèÖÃµ÷Õû (KP)
 
 
 Info for version 1.19b RC
 ------------------------------------------------------------------------------------------
 
-ä¿®å¤â€œDrawReportï¼ˆï¼‰â€å¯¼è‡´â€œaCcordâ€æ•°ç»„çš„ä¿¡æ¯ä¸¢å¤±
+ÐÞ¸´¡°DrawReport£¨£©¡±µ¼ÖÂ¡°aCcord¡±Êý×éµÄÐÅÏ¢¶ªÊ§
 
 
 
 Info for version 1.19g RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤ï¼šä½¿ç”¨å•ä¸€æ•°æ®ç±»åž‹ï¼ˆé¥¼å›¾ï¼Œåœ†çŽ¯å›¾ï¼ŒæŸ±å½¢å›¾ï¼Œæ¡å½¢å›¾ï¼‰æ—¶çš„å•è‰²å›¾è¡¨ -  Churrucks
+ÐÞ¸´£ºÊ¹ÓÃµ¥Ò»Êý¾ÝÀàÐÍ£¨±ýÍ¼£¬Ô²»·Í¼£¬ÖùÐÎÍ¼£¬ÌõÐÎÍ¼£©Ê±µÄµ¥É«Í¼±í -  Churrucks
 
-ä¿®å¤ï¼šä¿®å¤ç”±äºŽæŸç§åŽŸå› ç”¨æˆ·å¿…é¡»æ›´æ”¹æ‰€é€‰æ¸¸æ ‡åˆ«åæ—¶åˆ‡ç‰‡çš„åˆ†ç¦» - Churrucks
+ÐÞ¸´£ºÐÞ¸´ÓÉÓÚÄ³ÖÖÔ­ÒòÓÃ»§±ØÐë¸ü¸ÄËùÑ¡ÓÎ±ê±ðÃûÊ±ÇÐÆ¬µÄ·ÖÀë - Churrucks
 
-ä¿®å¤ï¼šåœ†æŸ±ä½“å’Œä¸‰æ£±æŸ±ä¸­åˆ»åº¦çš„å¯¹é½æ–¹å¼
+ÐÞ¸´£ºÔ²ÖùÌåºÍÈýÀâÖùÖÐ¿Ì¶ÈµÄ¶ÔÆë·½Ê½
 
-ä¿®å¤ï¼šå›¾è¡¨æ•°æ®å’Œä¿¡æ¯æç¤ºçš„å€¼å°†æ ¹æ®æºå€¼æ˜¾ç¤ºå°æ•° (IS)
+ÐÞ¸´£ºÍ¼±íÊý¾ÝºÍÐÅÏ¢ÌáÊ¾µÄÖµ½«¸ù¾ÝÔ´ÖµÏÔÊ¾Ð¡Êý (IS)
 http://vfpx.codeplex.com/WorkItem/View.aspx?WorkItemId=23486
 
-ä¿®å¤ï¼šå…è®¸å›¾ä¾‹ä¸­çš„å€¼ä¸ºä»»ä½•ç±»åž‹ï¼Œè€Œä¸ä»…ä»…æ˜¯å­—ç¬¦åž‹(IS)
+ÐÞ¸´£ºÔÊÐíÍ¼ÀýÖÐµÄÖµÎªÈÎºÎÀàÐÍ£¬¶ø²»½ö½öÊÇ×Ö·ûÐÍ(IS)
 http://vfpx.codeplex.com/WorkItem/View.aspx?WorkItemId=23489
 
-ä¿®å¤ï¼šä¾§è¾¹å›¾ä¾‹åœ¨æ°´å¹³çŠ¶æ€æ—¶æœªå¯¹é½(IS)
+ÐÞ¸´£º²à±ßÍ¼ÀýÔÚË®Æ½×´Ì¬Ê±Î´¶ÔÆë(IS)
 http://vfpx.codeplex.com/WorkItem/View.aspx?WorkItemId=23309
 
-ä¿®å¤ï¼šåœ¨é¢ç§¯å›¾ä¸­æ›´å¥½åœ°è°ƒç”¨é¼ æ ‡äº‹ä»¶ - ä¿®å¤äº†å›¾å½¢çš„æ˜ å°„ã€‚ 
+ÐÞ¸´£ºÔÚÃæ»ýÍ¼ÖÐ¸üºÃµØµ÷ÓÃÊó±êÊÂ¼þ - ÐÞ¸´ÁËÍ¼ÐÎµÄÓ³Éä¡£ 
 
 
-æ–°ç¤ºä¾‹ï¼š
+ÐÂÊ¾Àý£º
 ChartsSample_Dynamic.scx
 
-ChartsSample_Builder çš„æ”¹è¿›:
- - ç”Ÿæˆå®Œæ•´å·¥ä½œè„šæœ¬ä»¥é‡çŽ°å½“å‰å›¾è¡¨ï¼ˆåœ¨â€œå±žæ€§â€é€‰é¡¹å¡ä¸­ï¼‰
- - æ·»åŠ æˆ–åˆ é™¤æ•°æ®è¡Œ
- - æ·»åŠ æˆ–åˆ é™¤æ•°æ®åˆ—ï¼ˆå­—æ®µï¼‰ï¼Œå…è®¸åŠ¨æ€æ›´æ”¹ ChartsCount
- - åœ¨è¾…åŠ©æ•°æ®æºä¸­å¢žåŠ äº†å­—æ®µï¼Œä»¥å…è®¸åœ¨å½“å‰è¡Œçš„å½¢çŠ¶ä¸­æ˜¾ç¤º/éšè—å›¾ä¾‹
+ChartsSample_Builder µÄ¸Ä½ø:
+ - Éú³ÉÍêÕû¹¤×÷½Å±¾ÒÔÖØÏÖµ±Ç°Í¼±í£¨ÔÚ¡°ÊôÐÔ¡±Ñ¡Ïî¿¨ÖÐ£©
+ - Ìí¼Ó»òÉ¾³ýÊý¾ÝÐÐ
+ - Ìí¼Ó»òÉ¾³ýÊý¾ÝÁÐ£¨×Ö¶Î£©£¬ÔÊÐí¶¯Ì¬¸ü¸Ä ChartsCount
+ - ÔÚ¸¨ÖúÊý¾ÝÔ´ÖÐÔö¼ÓÁË×Ö¶Î£¬ÒÔÔÊÐíÔÚµ±Ç°ÐÐµÄÐÎ×´ÖÐÏÔÊ¾/Òþ²ØÍ¼Àý
 
-æ–°çš„å›¾è¡¨ç±»åž‹
-3 - å †ç§¯æŸ±å½¢å›¾(å…¨)
-15 - å †ç§¯æ¡å½¢å›¾(å…¨)
-16 - å †ç§¯é¢ç§¯å›¾(å…¨)
+ÐÂµÄÍ¼±íÀàÐÍ
+3 - ¶Ñ»ýÖùÐÎÍ¼(È«)
+15 - ¶Ñ»ýÌõÐÎÍ¼(È«)
+16 - ¶Ñ»ýÃæ»ýÍ¼(È«)
 
-è¿™äº›æ–°å›¾è¡¨ä¹Ÿç§°ä¸º100ï¼…å †ç§¯å›¾è¡¨ã€‚
-å®ƒä»¬å¯ç”¨äºŽæ¯”è¾ƒç›¸åŒç‚¹å‚æ•°çš„å‡ ä¸ªç³»åˆ—çš„ç™¾åˆ†æ¯”å€¼ã€‚
-å›¾å½¢æ•°æ®å¯ä»¥æŒ‡å®šæ˜¯æ˜¾ç¤ºæ¯ä¸ªç‚¹çš„å®žé™…å€¼ï¼Œè¿˜æ˜¯ä»£è¡¨ç™¾åˆ†æ¯”;
-Â Â Â  å¹¶ä¸”è¿˜å¯ä»¥æ›´æ”¹å›¾å½¢æ•°æ®çš„å¯è§æ€§ã€‚
+ÕâÐ©ÐÂÍ¼±íÒ²³ÆÎª100£¥¶Ñ»ýÍ¼±í¡£
+ËüÃÇ¿ÉÓÃÓÚ±È½ÏÏàÍ¬µã²ÎÊýµÄ¼¸¸öÏµÁÐµÄ°Ù·Ö±ÈÖµ¡£
+Í¼ÐÎÊý¾Ý¿ÉÒÔÖ¸¶¨ÊÇÏÔÊ¾Ã¿¸öµãµÄÊµ¼ÊÖµ£¬»¹ÊÇ´ú±í°Ù·Ö±È;
+??? ²¢ÇÒ»¹¿ÉÒÔ¸ü¸ÄÍ¼ÐÎÊý¾ÝµÄ¿É¼ûÐÔ¡£
 
 
-æ–°å±žæ€§ï¼š
+ÐÂÊôÐÔ£º
 PieDirection
-æ•´åž‹ï¼ˆ0-1ï¼‰ï¼Œç¡®å®šåœ¨é¥¼å›¾æˆ–åœ†çŽ¯å›¾ä¸­ç»˜åˆ¶åˆ‡ç‰‡çš„æ–¹å‘*** 0 =é¡ºæ—¶é’ˆï¼Œ1 =é€†æ—¶é’ˆ
+ÕûÐÍ£¨0-1£©£¬È·¶¨ÔÚ±ýÍ¼»òÔ²»·Í¼ÖÐ»æÖÆÇÐÆ¬µÄ·½Ïò*** 0 =Ë³Ê±Õë£¬1 =ÄæÊ±Õë
 
 ShowPercentages
-é€»è¾‘åž‹ï¼Œå¯¹äºŽå †å å›¾(å…¨)ï¼Œç¡®å®šé»˜è®¤çš„å›¾è¡¨æ•°æ®å’Œä¿¡æ¯æç¤ºæ–‡æœ¬ä¸­çš„æ•°æ®æ˜¾ç¤ºä¸ºç™¾åˆ†æ¯”
-é€‚ç”¨äºŽå›¾è¡¨ç±»åž‹ï¼š
-*    3 - å †ç§¯æŸ±å½¢å›¾(å…¨)
-*    7 - æŸ±å½¢å›¾
-*    8 - ç°‡çŠ¶æŸ±å½¢å›¾
-*   12 - æ¡å½¢å›¾
-*   13 - ç°‡çŠ¶æ¡å½¢å›¾
-*   15 - å †ç§¯æ¡å½¢å›¾(å…¨)
-*   16 - å †ç§¯é¢ç§¯å›¾(å…¨)
+Âß¼­ÐÍ£¬¶ÔÓÚ¶ÑµþÍ¼(È«)£¬È·¶¨Ä¬ÈÏµÄÍ¼±íÊý¾ÝºÍÐÅÏ¢ÌáÊ¾ÎÄ±¾ÖÐµÄÊý¾ÝÏÔÊ¾Îª°Ù·Ö±È
+ÊÊÓÃÓÚÍ¼±íÀàÐÍ£º
+*    3 - ¶Ñ»ýÖùÐÎÍ¼(È«)
+*    7 - ÖùÐÎÍ¼
+*    8 - ´Ø×´ÖùÐÎÍ¼
+*   12 - ÌõÐÎÍ¼
+*   13 - ´Ø×´ÌõÐÎÍ¼
+*   15 - ¶Ñ»ýÌõÐÎÍ¼(È«)
+*   16 - ¶Ñ»ýÃæ»ýÍ¼(È«)
 
-* å°šæœªæŽ¨å‡º *
-â€¢ CurrPercent - åªè¯»,æ•°å­— (0-100),
-â€¢ å½“å‰å›¾å½¢å¯¹è±¡çš„ç™¾åˆ†æ¯”å€¼ã€‚é€‚ç”¨äºŽå›¾è¡¨ç±»åž‹ 1,2,3,7,8,11,12,13,15 å’Œ 16
+* ÉÐÎ´ÍÆ³ö *
+? CurrPercent - Ö»¶Á,Êý×Ö (0-100),
+? µ±Ç°Í¼ÐÎ¶ÔÏóµÄ°Ù·Ö±ÈÖµ¡£ÊÊÓÃÓÚÍ¼±íÀàÐÍ 1,2,3,7,8,11,12,13,15 ºÍ 16
 
 
 Info for version 1.19j RC
 ------------------------------------------------------------------------------------------
 
-ä¿®å¤ï¼šåœ¨å¸ƒå±€æœŸé—´ä¸è€ƒè™‘ X è½´å›¾ä¾‹æ ‡é¢˜
+ÐÞ¸´£ºÔÚ²¼¾ÖÆÚ¼ä²»¿¼ÂÇ X ÖáÍ¼Àý±êÌâ
 http://vfpx.codeplex.com/WorkItem/View.aspx?WorkItemId=24458&ProjectName=VFPX#
 
-ä¿®å¤ï¼šå½“å›¾å½¢æ•°æ®çš„å®½åº¦>å¯¹åº”å›¾è¡¨å›¾å½¢å®½åº¦ï¼ˆç”±PHæŠ¥å‘Šï¼‰æ—¶ï¼Œæ°´å¹³å›¾å½¢æ•°æ®ä½ç½®çš„é—®é¢˜
+ÐÞ¸´£ºµ±Í¼ÐÎÊý¾ÝµÄ¿í¶È>¶ÔÓ¦Í¼±íÍ¼ÐÎ¿í¶È£¨ÓÉPH±¨¸æ£©Ê±£¬Ë®Æ½Í¼ÐÎÊý¾ÝÎ»ÖÃµÄÎÊÌâ
 
-ä¿®å¤ï¼šåœ¨æŠ˜çº¿å›¾å’Œæ•£ç‚¹å›¾ä¸­é›¶å€¼ä¸ä¼šæ˜¾ç¤ºåœ¨å›¾è¡¨ä¸­
+ÐÞ¸´£ºÔÚÕÛÏßÍ¼ºÍÉ¢µãÍ¼ÖÐÁãÖµ²»»áÏÔÊ¾ÔÚÍ¼±íÖÐ
 http://vfpx.codeplex.com/WorkItem/View.aspx?WorkItemId=25166#
  
 
@@ -689,15 +689,15 @@ http://vfpx.codeplex.com/WorkItem/View.aspx?WorkItemId=25166#
 Info for version 1.19L RC
 ------------------------------------------------------------------------------------------
 
-ä¿®å¤ FoxCharts: ç¼ºå°‘å›¾ä¾‹ä½ç½®é€‰é¡¹ (IS)
+ÐÞ¸´ FoxCharts: È±ÉÙÍ¼ÀýÎ»ÖÃÑ¡Ïî (IS)
 http://vfpx.codeplex.com/WorkItem/View.aspx?WorkItemId=24394
-LegendPosition å±žæ€§æ–°çš„å±žæ€§å€¼:
-LegendPosition - æ•°å€¼ (0-12)
-11 - åž‚ç›´å·¦ä¸­
-12 - åž‚ç›´å³ä¸­
+LegendPosition ÊôÐÔÐÂµÄÊôÐÔÖµ:
+LegendPosition - ÊýÖµ (0-12)
+11 - ´¹Ö±×óÖÐ
+12 - ´¹Ö±ÓÒÖÐ
 
-ä¿®å¤ï¼šå †ç§¯å›¾è¡¨ä¸­çš„é›¶å€¼æ²¡æœ‰ç»˜åˆ¶å›¾ä¾‹çš„ç©ºé—´ï¼Œå› æ­¤æˆ‘ä»¬å°†å¿½ç•¥è¿™ç§æƒ…å†µ
-ä¿®å¤ï¼š è°ƒæ•´äº†ç¤ºä¾‹
+ÐÞ¸´£º¶Ñ»ýÍ¼±íÖÐµÄÁãÖµÃ»ÓÐ»æÖÆÍ¼ÀýµÄ¿Õ¼ä£¬Òò´ËÎÒÃÇ½«ºöÂÔÕâÖÖÇé¿ö
+ÐÞ¸´£º µ÷ÕûÁËÊ¾Àý
 
 
 
@@ -705,105 +705,170 @@ LegendPosition - æ•°å€¼ (0-12)
 Info for version 1.19O RC
 ------------------------------------------------------------------------------------------
 
-æ–°çš„å›¾è¡¨ç±»åž‹ ChartType = 17 - æ°´å¹³é…å¯¹æ¡å½¢å›¾
-æ–°ç¤ºä¾‹ - chartsSample_PairedBars
+ÐÂµÄÍ¼±íÀàÐÍ ChartType = 17 - Ë®Æ½Åä¶ÔÌõÐÎÍ¼
+ÐÂÊ¾Àý - chartsSample_PairedBars
 
 
 Info for version 1.19P RC
 ------------------------------------------------------------------------------------------
 
-ChartType = 17 çš„å¾®è°ƒ -æ°´å¹³é…å¯¹æ¡å½¢å›¾
-ä¿®å¤ï¼šCHartType = 17 æ—¶ä»¥æ¯”ä¾‹æ˜¾ç¤ºçš„è´Ÿå€¼
-ä¿®å¤ï¼šCHartType = 9 æ—¶ä¸ä¼šæ˜¾ç¤ºé›¶å€¼
+ChartType = 17 µÄÎ¢µ÷ -Ë®Æ½Åä¶ÔÌõÐÎÍ¼
+ÐÞ¸´£ºCHartType = 17 Ê±ÒÔ±ÈÀýÏÔÊ¾µÄ¸ºÖµ
+ÐÞ¸´£ºCHartType = 9 Ê±²»»áÏÔÊ¾ÁãÖµ
 
-æ–°ç¤ºä¾‹ - chartsSample_ArrowsInLegend.scx
-    é«˜çº§ç¤ºä¾‹æ˜¾ç¤ºå¦‚ä½•ä¸ŽMouseDownä¸Šçš„å›¾è¡¨å¯¹è±¡è¿›è¡Œäº¤äº’ã€‚
-Â Â Â  å½“ç”¨æˆ·ç‚¹å‡»ä¾§è¾¹å›¾ä¾‹æ—¶ï¼Œå¯ä»¥åœ¨ä¾§è¾¹å›¾ä¾‹ä¸­ç”»å‡ºç®­å¤´ã€‚
-Â Â Â  ä½¿ç”¨å„ç§æœ‰è¶£çš„æŠ€æœ¯ï¼Œæ˜ å°„å›¾è¡¨å¯¹è±¡ï¼Œ
-Â Â Â Â Â  èŽ·å–é¢œè‰²å¹¶ä½¿ç”¨GdiPlusXåŠ¨æ€ç»˜åˆ¶æ–°å½¢çŠ¶ï¼ˆçº¿æ¡ï¼‰ã€‚
+ÐÂÊ¾Àý - chartsSample_ArrowsInLegend.scx
+    ¸ß¼¶Ê¾ÀýÏÔÊ¾ÈçºÎÓëMouseDownÉÏµÄÍ¼±í¶ÔÏó½øÐÐ½»»¥¡£
+??? µ±ÓÃ»§µã»÷²à±ßÍ¼ÀýÊ±£¬¿ÉÒÔÔÚ²à±ßÍ¼ÀýÖÐ»­³ö¼ýÍ·¡£
+??? Ê¹ÓÃ¸÷ÖÖÓÐÈ¤µÄ¼¼Êõ£¬Ó³ÉäÍ¼±í¶ÔÏó£¬
+????? »ñÈ¡ÑÕÉ«²¢Ê¹ÓÃGdiPlusX¶¯Ì¬»æÖÆÐÂÐÎ×´£¨ÏßÌõ£©¡£
 
 
 Info for version 1.19Q RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤ ChartType = 17 æ—¶çš„ BUG ï¼šhttp://www.foxite.com/archives/0000247299.htm
+ÐÞ¸´ ChartType = 17 Ê±µÄ BUG £ºhttp://www.foxite.com/archives/0000247299.htm
 
-ä¿®å¤ï¼šç¬¬ä¸€ä¸ªæ•°æ®ç³»åˆ—åº”è¯¥ä»Ž0åˆ°å·¦ï¼Œç¬¬äºŒä¸ªç³»åˆ—ä»Ž0åˆ°å³ã€‚
-ä¿®å¤ï¼šé…å¯¹æ çš„å¯¹é½é”™è¯¯
-ä¿®å¤ï¼šä¿®å¤åˆ»åº¦ï¼ˆæ‰€æœ‰æ°´å¹³å›¾è¡¨æ ·å¼å‡æ— æ•ˆï¼‰
+ÐÞ¸´£ºµÚÒ»¸öÊý¾ÝÏµÁÐÓ¦¸Ã´Ó0µ½×ó£¬µÚ¶þ¸öÏµÁÐ´Ó0µ½ÓÒ¡£
+ÐÞ¸´£ºÅä¶ÔÀ¸µÄ¶ÔÆë´íÎó
+ÐÞ¸´£ºÐÞ¸´¿Ì¶È£¨ËùÓÐË®Æ½Í¼±íÑùÊ½¾ùÎÞÐ§£©
 
 
 Info for version 1.19R RC
 ------------------------------------------------------------------------------------------
-ä¿®å¤ï¼š3Dæ¡å½¢å›¾ä¸­çš„åž‚ç›´èƒŒæ™¯çº¿å’Œåž‚ç›´èƒŒæ™¯çº¿ä¸­çš„å…¶ä»–ä¸€äº›è°ƒæ•´
+ÐÞ¸´£º3DÌõÐÎÍ¼ÖÐµÄ´¹Ö±±³¾°ÏßºÍ´¹Ö±±³¾°ÏßÖÐµÄÆäËûÒ»Ð©µ÷Õû
 
 
 Info for version 1.20 PRODUCTION
 ------------------------------------------------------------------------------------------
-æ–¹æ³• GetChartProperties()
-- å¢žåŠ äº†æ–°çš„å‚æ•° - çŽ°åœ¨å¯ä»¥ä¼ é€’å››ä¸ªå‚æ•°ï¼Œç”¨äºŽæ›´å¥½çš„è¿›è¡Œæ£€ç´¢
-å®Œæ•´è„šæœ¬ï¼Œé‡æ–°ç”Ÿæˆæ¸¸æ ‡ä»¥åŠåœ¨è¡¨å•ä¸­é‡çŽ°å½“å‰å›¾è¡¨æ‰€éœ€çš„æ‰€æœ‰å‘½ä»¤
- - å°è°ƒæ•´
+·½·¨ GetChartProperties()
+- Ôö¼ÓÁËÐÂµÄ²ÎÊý - ÏÖÔÚ¿ÉÒÔ´«µÝËÄ¸ö²ÎÊý£¬ÓÃÓÚ¸üºÃµÄ½øÐÐ¼ìË÷
+ÍêÕû½Å±¾£¬ÖØÐÂÉú³ÉÓÎ±êÒÔ¼°ÔÚ±íµ¥ÖÐÖØÏÖµ±Ç°Í¼±íËùÐèµÄËùÓÐÃüÁî
+ - Ð¡µ÷Õû
 
-ChartsSample_Builder çŽ°åœ¨å¯ä»¥æ˜¾ç¤ºè°ƒè‰²æ¿
+ChartsSample_Builder ÏÖÔÚ¿ÉÒÔÏÔÊ¾µ÷É«°å
 
 
 Info for version 1.32 BETA
 ------------------------------------------------------------------------------------------
-æä¾›äº†åŒ Y è½´å›¾è¡¨
-æ›´å¤šä¿¡æ¯ã€ç¤ºä¾‹ã€æˆªå›¾å‚çœ‹ï¼š
+Ìá¹©ÁËË« Y ÖáÍ¼±í
+¸ü¶àÐÅÏ¢¡¢Ê¾Àý¡¢½ØÍ¼²Î¿´£º
 http://weblogs.foxite.com/vfpimaging/2011/03/14/foxcharts-new-release-with-double-y-axis/
 
 
 Info for version 1.33 BETA
 ------------------------------------------------------------------------------------------
-ä¿®å¤äº†åŒ Y è½´å›¾è¡¨çš„ BUG
-ä¿®å¤äº† ChartsSample_Builder çš„ BUG
+ÐÞ¸´ÁËË« Y ÖáÍ¼±íµÄ BUG
+ÐÞ¸´ÁË ChartsSample_Builder µÄ BUG
 
 
 Info for version 1.34 BETA
 ------------------------------------------------------------------------------------------
-åˆ é™¤äº† WITH/ENDWITH ç»“æž„ä¸­çš„ RETURN è¯­å¥ï¼Œä½¿ä»£ç çš„ç¨³å®šæ€§æ›´é«˜ä»Žè€Œé¿å…C000005é”™è¯¯ã€‚ æ„Ÿè°¢å‰å§†å°¼å°”æ£®å’Œå®‰å¾·é²éº¦å…‹å°¼å°”ï¼Œæ„Ÿè°¢ä»–ä»¬çš„ä¼Ÿå¤§å·¥å…·THORå’ŒCODE ANALYST
-é€šè¿‡ä½¿ç”¨THORæ·»åŠ äº†ç¼ºå°‘çš„ LOCAL è¯­å¥ï¼Œå¹¶ä¸ºå˜é‡æ·»åŠ äº†â€œm.â€å‰ç¼€ã€‚
+É¾³ýÁË WITH/ENDWITH ½á¹¹ÖÐµÄ RETURN Óï¾ä£¬Ê¹´úÂëµÄÎÈ¶¨ÐÔ¸ü¸ß´Ó¶ø±ÜÃâC000005´íÎó¡£ ¸ÐÐ»¼ªÄ·Äá¶ûÉ­ºÍ°²µÂÂ³Âó¿ËÄá¶û£¬¸ÐÐ»ËûÃÇµÄÎ°´ó¹¤¾ßTHORºÍCODE ANALYST
+Í¨¹ýÊ¹ÓÃTHORÌí¼ÓÁËÈ±ÉÙµÄ LOCAL Óï¾ä£¬²¢Îª±äÁ¿Ìí¼ÓÁË¡°m.¡±Ç°×º¡£
 
 
 Info for version 1.35 BETA
 ------------------------------------------------------------------------------------------
-ç»†å¾®è°ƒæ•´ä»¥å…è®¸ MultiCharts å’Œ å…·æœ‰ä¸¤ä¸ª Y è½´çš„å›¾è¡¨
-æ–°ç¤ºä¾‹ -  ChartsSample_2Y_Multichart.scx  - æ˜¾ç¤ºå¦‚ä½•å°†æ¡å½¢å›¾ä¸ŽæŠ˜çº¿å›¾ç»„åˆåœ¨ä¸€èµ·ï¼Œä¸åŒçš„å›¾è¡¨å¯¹åº”ä¸åŒçš„ Y è½´
-è°ƒæ•´â€œShapeTooltipâ€æ–¹æ³•ï¼Œä»¥åœ¨å¿…è¦æ—¶æ˜¾ç¤ºæ­£ç¡®æœ‰æ•ˆçš„åè¿›åˆ¶å€¼
-æ–°ç¤ºä¾‹åŒ…å«åœ¨ä¸»å›¾è¡¨è¡¨å•çš„åˆ—è¡¨ä¸­
+Ï¸Î¢µ÷ÕûÒÔÔÊÐí MultiCharts ºÍ ¾ßÓÐÁ½¸ö Y ÖáµÄÍ¼±í
+ÐÂÊ¾Àý -  ChartsSample_2Y_Multichart.scx  - ÏÔÊ¾ÈçºÎ½«ÌõÐÎÍ¼ÓëÕÛÏßÍ¼×éºÏÔÚÒ»Æð£¬²»Í¬µÄÍ¼±í¶ÔÓ¦²»Í¬µÄ Y Öá
+µ÷Õû¡°ShapeTooltip¡±·½·¨£¬ÒÔÔÚ±ØÒªÊ±ÏÔÊ¾ÕýÈ·ÓÐÐ§µÄÊ®½øÖÆÖµ
+ÐÂÊ¾Àý°üº¬ÔÚÖ÷Í¼±í±íµ¥µÄÁÐ±íÖÐ
 
 
 Info for version 1.36 BETA
 ------------------------------------------------------------------------------------------
-æ„Ÿè°¢ Enrique Vasquezï¼Œåœ¨åˆ†ç¦»åˆ‡ç‰‡æ—¶ä¿®å¤ é¥¼å›¾/åœ†çŽ¯å›¾ ä¸­çš„ BUG
+¸ÐÐ» Enrique Vasquez£¬ÔÚ·ÖÀëÇÐÆ¬Ê±ÐÞ¸´ ±ýÍ¼/Ô²»·Í¼ ÖÐµÄ BUG
 
 
 Info for version 1.37 BETA
 ------------------------------------------------------------------------------------------
-å¼•å…¥äº†æ–°å¯¹è±¡ - â€œYaxis2â€ï¼Œå…è®¸åœ¨ ChartType=18 æ—¶ä¸ºç¬¬äºŒä¸ª Y è½´æ·»åŠ æ ‡é¢˜
-å¯¹ç”Ÿæˆå™¨ç¤ºä¾‹è¿›è¡Œè½»å¾®ä¿®æ”¹ä»¥æ›´å¥½åœ°æ˜¾ç¤ºå›¾è¡¨
+ÒýÈëÁËÐÂ¶ÔÏó - ¡°Yaxis2¡±£¬ÔÊÐíÔÚ ChartType=18 Ê±ÎªµÚ¶þ¸ö Y ÖáÌí¼Ó±êÌâ
+¶ÔÉú³ÉÆ÷Ê¾Àý½øÐÐÇáÎ¢ÐÞ¸ÄÒÔ¸üºÃµØÏÔÊ¾Í¼±í
 
 
 
-*å¾…åŠžäº‹é¡¹æ¸…å•
+*´ý°ìÊÂÏîÇåµ¥
 
-æ›´æ–°å¸®åŠ©æ–‡ä»¶
- - PageFrameTabs çš„è¯´æ˜Ž
- - æ–°çš„å›¾ä¾‹ä½ç½®
- - æ–°çš„å›¾è¡¨ç±»åž‹
- -  ShapeLegend è¡¨è¾¾å¼ç­‰
-
-
-è¯·äº«ç”¨ ï¼ï¼ï¼
+¸üÐÂ°ïÖúÎÄ¼þ
+ - PageFrameTabs µÄËµÃ÷
+ - ÐÂµÄÍ¼ÀýÎ»ÖÃ
+ - ÐÂµÄÍ¼±íÀàÐÍ
+ -  ShapeLegend ±í´ïÊ½µÈ
 
 
-å…è´£å£°æ˜Žï¼š
+ÇëÏíÓÃ £¡£¡£¡
+
+
+ÃâÔðÉùÃ÷£º
 --------------------
-FoxCharts æ˜¯ä¸€ä¸ªå…è´¹çš„å¼€æºé¡¹ç›®ï¼Œæ—¨åœ¨ä¸º Visual FoxPro å¼€å‘äººå‘˜æä¾›ä¸€ä¸ªå›¾è¡¨å·¥å…·ã€‚
+FoxCharts ÊÇÒ»¸öÃâ·ÑµÄ¿ªÔ´ÏîÄ¿£¬Ö¼ÔÚÎª Visual FoxPro ¿ª·¢ÈËÔ±Ìá¹©Ò»¸öÍ¼±í¹¤¾ß¡£
 
-å®ƒæ˜¯ VFPX é¡¹ç›®çš„ä¸€éƒ¨åˆ†ï¼Œå¹¶ä¸”å¾ªåºå…¶è®¸å¯åè®®ã€‚
+ËüÊÇ VFPX ÏîÄ¿µÄÒ»²¿·Ö£¬²¢ÇÒÑ­ÐòÆäÐí¿ÉÐ­Òé¡£
 
-æœ‰å…³æ­¤é¡¹ç›®å’Œè®¸å¯è¯çš„æ›´å¤šä¿¡æ¯ï¼Œè¯·è®¿é—®VFPXä¸»é¡µï¼š
+ÓÐ¹Ø´ËÏîÄ¿ºÍÐí¿ÉÖ¤µÄ¸ü¶àÐÅÏ¢£¬Çë·ÃÎÊVFPXÖ÷Ò³£º
 
 https://vfpx.github.io/
+
+Info for version 1.41 BETA
+------------------------------------------------------------------------------------------
+ÐÂ¹¦ÄÜ£º
+
+ÍÆ³öÐÂµÄ Bar ÀàÐÍ£º×¶ÐÎ£¬Ô²×¶ÐÎ£¬ËÄÀâ×¶ÌåºÍ½Ø×¶Ìå¡£
+ÍÆ³öÐÂµÄË¢×ÓÀàÐÍ£ºÑÕÉ«Ë¢×ÓºÍÎÆÀíË¢×Ó(HatchBrush Color, Textures Brush)
+ÓÒ¼üµ¥»÷Í¼±íÖÐµÄ²à±ßÍ¼Àý£¬¿ÉÒÔµ÷ÓÃÒ»¸öÐÂ±íµ¥£¬¸Ã±íµ¥ÔÊÐíÒÔ½»»¥·½Ê½¸ü¸ÄÓ¦ÓÃÓÚ²à±ßÍ¼ÀýµÄÏÔÊ¾·½Ê½¡£ Äã¿ÉÒÔ¸ü¸ÄÍ¼ÀýÎ»ÖÃ£¬ÑÕÉ«ºÍÆäËû×Ö·û¸ñÊ½¡£
+ÐÂÊôÐÔ£º
+
+GradientShapeDirection: ÊýÖµÐÍ£¬È·¶¨½¥±ä»­±Ê·½Ïò£¨0-3£©¡£
+GradientVertCount and GradientHorCount: ÊýÖµÐÍ£¬È·¶¨ Shape Gradient Brush ÌõÎÆÊý£¨´¹Ö±ºÍË®Æ½·½Ïò£©¡£
+ÐÞ¸´£º
+ÐÞ¸´ "System.app" ÖÐµÄ BUG¡£ÔÚ·¢²¼µÄ°æ±¾ÖÐ£¬Èç¹ûÔÚ TRY/CATCH ½á¹¹ÖÐÊ¹ÓÃ Local Óï¾ä£¬»á´¥·¢Ò»Ð© BUG£¬ÕâÔÚÊÍ·ÅµÄ°æ±¾ÖÐ¶Ô´Ë½øÐÐÁË¹æ±Ü¡£ÏÖÔÚËü¿ÉÒÔ¹¤×÷µÄ¸ü¸ßÐ§¡£
+
+·Ç³£ÖØÒª£º
+ÓÉÓÚÕâ¸öÐÂ°æ±¾´øÀ´ÁËÒ»Ð©ÐÞ¸Ä, ÐÂµÄºÍµ±Ç°µÄ Beta °æ±¾ÊÇÔ­Ê¼µÄºÍ×îÐÂµÄ FoxCharts °æ±¾ v1.37 µÄ×ÓÀà¡£ÐÂÀàÎ»ÓÚ Foxcharts1.46_Beta ÎÄ¼þ¼ÐÖÐ, ÃûÎª FoxChartsBeta. vcx¡£
+
+ËùÓÐÐÂµÄÊ¾Àý (½«´Ó×îÐÂµÄ¹¦ÄÜÖÐÊÜÒæ) ¶¼ÔÚ SamplesBeta ÎÄ¼þ¼ÐÖÐ¡£
+
+Start playing with the form "+Chartssample_v1_4x.scx+".
+ - ¸ü¸ÄÎ¢µ÷Æ÷ÖµÒÔ²é¿´¿ÉÓÃµÄÐÂÍ¼±í
+ - µã»÷²à±ßÍ¼Àý£¬¿´¿´¿áìÅµÄÌõÎÆ
+ - ÓÒ¼üµ¥»÷²à±ßÍ¼ÀýÒÔµ÷ÓÃÐÂµÄ²à±ßÍ¼Àý±íµ¥£¬²¢Ê¹ÓÃÐÂµÄ¿ÉÄÜÐÔ£¡
+
+Info for version 1.42 ALPHA
+Í¼±íµÄËùÓÐ¶ÔÏó¶¼»áÔÚÊó±êÒÆ¶¯ÔÚÆäÉÏÊ±ÏÔÊ¾ÂÖÀª
+ËùÓÐ¶ÔÏó¶¼ÓÐÊôÓÚ×Ô¼ºµÄÊôÐÔµ÷Õû±íµ¥£¬¶øÄãÒª×öµÄ£¬½ö½öÊÇÓÒ»÷ËüÃÇ¡£
+ÓÒ¼üµ¥»÷Í¼±í£¨²»ÊÇ¶ÔÏó£©½«µ÷ÓÃ±íµ¥À´µ÷Õû³£ÓÃÊôÐÔ
+¶ÔÓÚChartType = 3£¨µ¥Ò»ÀàÐÍ£©£¬¿ÉÒÔ¿´µ½ÏÔÊ¾ÔöÁ¿ÖµµÄ¼ýÍ·
+±êÌâºÍ¸±±êÌâ¿ÉÒÔÊ¹ÓÃchr£¨13£©+ chr£¨10£©
+¿ÉÒÔÔÚÎÄ¼þ ChartsList µÄ±¸×¢×Ö¶ÎÖÐ´æ´¢ÊôÐÔÉèÖÃ¡£
+Í¼Àý×öÁËÒ»Ð©¸ü¸Ä
+
+------------------------------------------------------------------------------------------
+Info for version 1.43 ALPHA
+ÐÂµÄÍ¼±í¶ÔÏó - ×¢ÊÍ¡£ÄãÏÖÔÚ¿ÉÒÔÔö¼ÓÒ»¸öÐÂµÄ×¢ÊÍ£¬²¢ÇÒ¿ÉÒÔ±à¼­ºÍÉ¾³ýËü£¨ÓÒ»÷£©¡£Í¬Ê±£¬Äã¿ÉÒÔÔÚÍ¼±êÖÐ¶ÔËü½øÐÐÍÏ×§¡£
+ËùÓÐ v.4x °æ±¾µÄÌØÐÔ£¬Äã¿ÉÒÔÔÚÏîÄ¿µÄ Chartssample_v1_4x.scx ±íµ¥ÖÐ²é¿´¡£
+
+Info for version 1.43 Beta
+ÐÞ¸´ÁËÒ»Ð© BUG
+Ìí¼ÓÊä³öµ½ Open Office ¡£
+
+Info for version 1.44 Beta
+ÐÂÔö±íµ¥ charts_rowchange.scx ÑÝÊ¾ÁËÈçºÎÔÚ grid µÄ AfterRowColChange ÊÂ¼þÖÐÉú³ÉÍ¼±í¡£
+Ê¾Àý±íµ¥ ChartExport.scx ÑÝÊ¾ÁËÈçºÎµ÷ÓÃ ChartExport.prg £¬Ëü¿ÉÒÔ½«Í¼±íÊä³öµ½¼ôÌù°å¡¢MS Excel¡¢MS Word¡¢Open Office ÒÔ¼°Ö±½Ó´òÓ¡Êä³ö¡£
+ÔÄ¶Á ChartExport.prg ÖÐµÄ×¢ÊÍ
+Info for version 1.44.4 
+Koen PillarÐÞ¸´ÁËÒ»Ð©´íÎó²¢¸Ä½øÁËChartExportµÄ¹¦ÄÜ
+Info for version 1.45
+ÐÂµÄÊ¾Àý±íµ¥ ChartsMovie ÏÔÊ¾ÁËÕë¶Ô²»Í¬µÄÊôÐÔÍ¼±íÉú³ÉµÄËÙ¶È¡£
+Info for version 1.45.2
+MultiBarType.Collection FieldsÓÐÐÂÊôÐÔBartype¡£ ¿´¿´±í¸ñAfterRowColChange¡£
+Info for version 1.45.3
+ÐÂµÄÊôÐÔ "News" ¡£±íµ¥ Chartssample_v1_4x µÄ³õÊ¼ÉèÖÃÊÇ Form.foxcharts1.News = .F.
+Èç¹ûÄã¸ü¸Ä News ÊôÐÔÖµÎª .T.£¬Äã¿ÉÒÔÊ¹ÓÃ GetChartProperties(3, .F. ) À´»ñµÃºÍ News = .F. Ò»ÑùµÄ½á¹û¡£
+
+Info for version 1.46 Beta
+ÐÂ±íµ¥ chartssamples_v1_4x ×÷Îªµ÷ÓÃ versions 1.4x µÄ±ê×¼±íµ¥¡£
+ÐÂÊôÐÔ "Sleep" - Âß¼­ÐÍ¡£µ± Sleep = .T. Ê±¿ÉÒÔ±ÜÃâÆµ·±µÄµ÷ÓÃ DrawChart (ÀýÈçµ±Äãµ÷Õû±íµ¥´óÐ¡Ê±).
+±íµ¥ charts_rowchange.scx ÑÝÊ¾ÁËÈçºÎ¶¯»­Ê½µÄ¸ü¸ÄÍ¼±í¡£
+
+Info for version 1.46.1 Beta
+Õâ¸ö°æ±¾Ìá¹©Èý¸ö 1.4x °æ±¾µÄÊ¾Àý£¬Ê¾Àý±íµ¥µÄ×óÉÏ½ÇÓÐÒ»¸ö¡°±íµ¥¶ÔÏó¡±°´Å¥£¬Äã¿ÉÒÔµã»÷Ëü²é¿´ËùÓÐµÄ±íµ¥¶ÔÏóÒÔ¼°ËüÃÇµÄÊôÐÔ¡¢ÊÂ¼þ¡¢·½·¨¡£
+¶ÔÏó Shapes °üº¬·Ç¿ÉÊÓµÄ¸¨Öú¶ÔÏó - »­²¼ÉÏµÄÃ¿¸ö Shape ¶¼ÓÐÒ»¸ö¡£ Äã¿ÉÒÔÔÚÄãµÄÓ¦ÓÃ³ÌÐòÀïÊ¹ÓÃÕâ¸ö¶ÔÏó¡£
